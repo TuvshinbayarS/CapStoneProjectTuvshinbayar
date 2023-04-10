@@ -13,7 +13,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1122334455667788 | Ponzi      |              01 |           2025 |          999 |
+      | 1122334455668888 | Ponzi      |              01 |           2025 |          999 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -23,7 +23,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1111222233334444 | Sarasafari |              10 |           2026 |          777 |
+      | 1111222233339999 | Sarasafari |              10 |           2026 |          777 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 

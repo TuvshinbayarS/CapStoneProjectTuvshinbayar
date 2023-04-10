@@ -7,7 +7,7 @@ Feature: TEK Retail Application SignIn feature
 
   @signin
   Scenario: Verify user can sign in into Retail Application
-    And User enter email 'tuvshinbayar.surenkhorloo@tekschool.us' and password 'Example123456'
+    And User enter email 'tate@tekschool.us' and password 'Tek@8888'
     And User click on login button
     Then User should be logged in into Account
 
@@ -16,6 +16,6 @@ Feature: TEK Retail Application SignIn feature
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name       | email             | password  | confirmPassword |
-      | TristanTate | tristan@tekschool.us | Tek@56789 | Tek@56789       |
+      | TristanTate | tristate@tekschool.us | Tek@56789 | Tek@56789       |
     And User click on SignUp button
     Then User should be logged into account page
