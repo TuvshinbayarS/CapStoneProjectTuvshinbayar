@@ -1,0 +1,1600 @@
+2023-03-28 21:42:22,314 - logger_File -INFO - user is on retail website
+2023-03-28 21:42:22,399 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 21:42:22,578 - logger_File -INFO - user entered sign in values
+2023-03-28 21:42:22,630 - logger_File -INFO - user clicke don the log in button
+2023-03-28 22:14:43,137 - logger_File -INFO - user is on retail website
+2023-03-28 22:14:43,216 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 22:14:43,277 - logger_File -INFO - user clicked on the create new account button
+2023-03-28 22:16:24,087 - logger_File -INFO - user is on retail website
+2023-03-28 22:16:24,161 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 22:16:24,224 - logger_File -INFO - user clicked on the create new account button
+2023-03-28 22:17:54,871 - logger_File -INFO - user is on retail website
+2023-03-28 22:17:55,027 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 22:17:55,092 - logger_File -INFO - user clicked on the create new account button
+2023-03-28 22:17:55,337 - logger_File -INFO - user entered sign up information
+2023-03-28 22:17:55,389 - logger_File -INFO - user clicked on the sign up button
+2023-03-28 22:17:55,646 - logger_File -INFO - user logged into the account page
+2023-03-28 22:49:52,539 - logger_File -INFO - user is on retail website
+2023-03-28 22:49:52,710 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 22:49:52,878 - logger_File -INFO - user entered sign in values
+2023-03-28 22:49:52,931 - logger_File -INFO - user clicke don the log in button
+2023-03-28 22:54:36,286 - logger_File -INFO - user is on retail website
+2023-03-28 22:54:36,386 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 22:54:36,559 - logger_File -INFO - user entered sign in values
+2023-03-28 22:54:36,612 - logger_File -INFO - user clicke don the log in button
+2023-03-28 22:55:58,047 - logger_File -INFO - user is on retail website
+2023-03-28 22:55:58,151 - logger_File -INFO - User clicked on the sign in option
+2023-03-28 22:55:58,326 - logger_File -INFO - user entered sign in values
+2023-03-28 22:55:58,378 - logger_File -INFO - user clicke don the log in button
+2023-03-28 22:55:58,881 - logger_File -INFO - user entered new name and phone value
+2023-03-28 22:55:58,937 - logger_File -INFO - user clicked on the update button
+2023-03-28 22:55:59,534 - logger_File -INFO - user profile info updtaed
+2023-03-29 00:10:23,501 - logger_File -INFO - user is on retail website
+2023-03-29 00:10:23,584 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:10:23,729 - logger_File -INFO - user entered sign in values
+2023-03-29 00:10:23,782 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:10:24,321 - logger_File -INFO - user entered new name and phone value
+2023-03-29 00:10:24,375 - logger_File -INFO - user clicked on the update button
+2023-03-29 00:10:24,988 - logger_File -INFO - user profile info updtaed
+2023-03-29 00:10:26,984 - logger_File -INFO - user is on retail website
+2023-03-29 00:10:27,065 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:10:27,207 - logger_File -INFO - user entered sign in values
+2023-03-29 00:10:27,257 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:35:25,482 - logger_File -INFO - user is on retail website
+2023-03-29 00:35:25,561 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:35:25,701 - logger_File -INFO - user entered sign in values
+2023-03-29 00:35:25,752 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:35:26,235 - logger_File -INFO - user entered new name and phone value
+2023-03-29 00:35:48,635 - logger_File -INFO - user is on retail website
+2023-03-29 00:35:48,782 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:35:48,917 - logger_File -INFO - user entered sign in values
+2023-03-29 00:35:48,963 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:35:49,417 - logger_File -INFO - user entered new password information
+2023-03-29 00:35:49,475 - logger_File -INFO - user clicked on the change password button
+2023-03-29 00:37:43,163 - logger_File -INFO - user is on retail website
+2023-03-29 00:37:43,325 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:37:43,463 - logger_File -INFO - user entered sign in values
+2023-03-29 00:37:43,515 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:37:43,988 - logger_File -INFO - user entered new name and phone value
+2023-03-29 00:37:44,046 - logger_File -INFO - user clicked on the update button
+2023-03-29 00:37:44,669 - logger_File -INFO - user profile info updtaed
+2023-03-29 00:37:46,646 - logger_File -INFO - user is on retail website
+2023-03-29 00:37:46,803 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:37:46,933 - logger_File -INFO - user entered sign in values
+2023-03-29 00:37:46,984 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:37:47,442 - logger_File -INFO - user entered new password information
+2023-03-29 00:37:47,500 - logger_File -INFO - user clicked on the change password button
+2023-03-29 00:38:27,891 - logger_File -INFO - user is on retail website
+2023-03-29 00:38:28,010 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:38:28,145 - logger_File -INFO - user entered sign in values
+2023-03-29 00:38:28,197 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:38:28,802 - logger_File -INFO - user entered new name and phone value
+2023-03-29 00:38:51,546 - logger_File -INFO - user is on retail website
+2023-03-29 00:38:51,697 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:38:51,830 - logger_File -INFO - user entered sign in values
+2023-03-29 00:38:51,878 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:38:52,335 - logger_File -INFO - user entered new password information
+2023-03-29 00:38:52,391 - logger_File -INFO - user clicked on the change password button
+2023-03-29 00:39:39,709 - logger_File -INFO - user is on retail website
+2023-03-29 00:39:39,820 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:39:39,959 - logger_File -INFO - user entered sign in values
+2023-03-29 00:39:40,011 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:39:40,489 - logger_File -INFO - user entered new name and phone value
+2023-03-29 00:40:02,998 - logger_File -INFO - user is on retail website
+2023-03-29 00:40:03,076 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:40:03,215 - logger_File -INFO - user entered sign in values
+2023-03-29 00:40:03,262 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:40:03,713 - logger_File -INFO - user entered new password information
+2023-03-29 00:40:03,773 - logger_File -INFO - user clicked on the change password button
+2023-03-29 00:40:04,650 - logger_File -INFO - password updated successfully
+2023-03-29 00:41:53,652 - logger_File -INFO - user is on retail website
+2023-03-29 00:41:53,734 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:41:53,871 - logger_File -INFO - user entered sign in values
+2023-03-29 00:41:53,923 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:41:59,386 - logger_File -INFO - user is on retail website
+2023-03-29 00:41:59,531 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:41:59,673 - logger_File -INFO - user entered sign in values
+2023-03-29 00:41:59,721 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:42:43,266 - logger_File -INFO - user is on retail website
+2023-03-29 00:42:43,396 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:42:43,529 - logger_File -INFO - user entered sign in values
+2023-03-29 00:42:43,580 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:42:44,069 - logger_File -INFO - user entered new name and phone value
+2023-03-29 00:42:44,119 - logger_File -INFO - user clicked on the update button
+2023-03-29 00:42:44,717 - logger_File -INFO - user profile info updtaed
+2023-03-29 00:42:46,593 - logger_File -INFO - user is on retail website
+2023-03-29 00:42:46,731 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 00:42:46,866 - logger_File -INFO - user entered sign in values
+2023-03-29 00:42:46,912 - logger_File -INFO - user clicke don the log in button
+2023-03-29 00:42:47,365 - logger_File -INFO - user entered new password information
+2023-03-29 00:42:47,420 - logger_File -INFO - user clicked on the change password button
+2023-03-29 00:42:48,366 - logger_File -INFO - password updated successfully
+2023-03-29 20:50:07,074 - logger_File -INFO - user is on retail website
+2023-03-29 20:50:07,195 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 20:50:07,345 - logger_File -INFO - user entered sign in values
+2023-03-29 20:50:07,397 - logger_File -INFO - user clicke don the log in button
+2023-03-29 20:50:07,747 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 20:50:08,053 - logger_File -INFO - user added new card info
+2023-03-29 20:50:08,114 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 20:50:37,834 - logger_File -INFO - user is on retail website
+2023-03-29 20:50:37,995 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 20:50:38,143 - logger_File -INFO - user entered sign in values
+2023-03-29 20:50:38,197 - logger_File -INFO - user clicke don the log in button
+2023-03-29 20:50:38,549 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 20:50:38,846 - logger_File -INFO - user added new card info
+2023-03-29 20:50:38,902 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 20:50:59,792 - logger_File -INFO - user is on retail website
+2023-03-29 20:50:59,871 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 20:51:00,012 - logger_File -INFO - user entered sign in values
+2023-03-29 20:51:00,067 - logger_File -INFO - user clicke don the log in button
+2023-03-29 20:51:00,405 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 20:51:00,709 - logger_File -INFO - user added new card info
+2023-03-29 20:51:00,763 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 20:53:32,336 - logger_File -INFO - user is on retail website
+2023-03-29 20:53:32,410 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 20:53:32,554 - logger_File -INFO - user entered sign in values
+2023-03-29 20:53:32,613 - logger_File -INFO - user clicke don the log in button
+2023-03-29 20:53:32,950 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 20:53:33,239 - logger_File -INFO - user added new card info
+2023-03-29 20:53:33,292 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 20:53:52,797 - logger_File -INFO - user is on retail website
+2023-03-29 20:53:52,897 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 20:53:53,040 - logger_File -INFO - user entered sign in values
+2023-03-29 20:53:53,095 - logger_File -INFO - user clicke don the log in button
+2023-03-29 20:53:53,424 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 20:53:53,730 - logger_File -INFO - user added new card info
+2023-03-29 20:53:53,781 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 21:34:09,685 - logger_File -INFO - user is on retail website
+2023-03-29 21:34:09,864 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 21:34:10,005 - logger_File -INFO - user entered sign in values
+2023-03-29 21:34:10,056 - logger_File -INFO - user clicke don the log in button
+2023-03-29 21:34:10,390 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 21:34:10,672 - logger_File -INFO - user added new card info
+2023-03-29 21:34:10,725 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 21:34:11,339 - logger_File -INFO - user addedd payment method successfully
+2023-03-29 22:05:22,008 - logger_File -INFO - user is on retail website
+2023-03-29 22:05:22,084 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:05:22,229 - logger_File -INFO - user entered sign in values
+2023-03-29 22:05:22,282 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:05:22,619 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 22:05:22,919 - logger_File -INFO - user added new card info
+2023-03-29 22:05:22,979 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 22:05:23,606 - logger_File -INFO - user addedd payment method successfully
+2023-03-29 22:05:31,127 - logger_File -INFO - user is on retail website
+2023-03-29 22:05:31,202 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:05:31,342 - logger_File -INFO - user entered sign in values
+2023-03-29 22:05:31,394 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:12:33,880 - logger_File -INFO - user is on retail website
+2023-03-29 22:12:33,967 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:12:34,109 - logger_File -INFO - user entered sign in values
+2023-03-29 22:12:34,159 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:12:34,488 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 22:12:34,774 - logger_File -INFO - user added new card info
+2023-03-29 22:12:34,826 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 22:12:35,454 - logger_File -INFO - user addedd payment method successfully
+2023-03-29 22:12:42,930 - logger_File -INFO - user is on retail website
+2023-03-29 22:12:43,089 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:12:43,223 - logger_File -INFO - user entered sign in values
+2023-03-29 22:12:43,271 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:12:43,604 - logger_File -INFO - user clicked on the card
+2023-03-29 22:12:43,661 - logger_File -INFO - user clicked on the edit payment method link
+2023-03-29 22:12:44,124 - logger_File -INFO - user entered edit payment method info
+2023-03-29 22:12:44,807 - logger_File -INFO - user updated payment method successfully
+2023-03-29 22:22:12,921 - logger_File -INFO - user is on retail website
+2023-03-29 22:22:13,023 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:22:13,180 - logger_File -INFO - user entered sign in values
+2023-03-29 22:22:13,230 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:22:14,067 - logger_File -INFO - user clicked on the add payment method link
+2023-03-29 22:22:14,356 - logger_File -INFO - user added new card info
+2023-03-29 22:22:14,410 - logger_File -INFO - user clicked on the add your card button
+2023-03-29 22:22:15,023 - logger_File -INFO - user addedd payment method successfully
+2023-03-29 22:22:22,563 - logger_File -INFO - user is on retail website
+2023-03-29 22:22:22,710 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:22:22,844 - logger_File -INFO - user entered sign in values
+2023-03-29 22:22:22,893 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:22:23,227 - logger_File -INFO - user clicked on the card
+2023-03-29 22:22:23,282 - logger_File -INFO - user clicked on the edit payment method link
+2023-03-29 22:22:23,754 - logger_File -INFO - user entered edit payment method info
+2023-03-29 22:22:24,475 - logger_File -INFO - user updated payment method successfully
+2023-03-29 22:22:32,058 - logger_File -INFO - user is on retail website
+2023-03-29 22:22:32,133 - logger_File -INFO - User clicked on the sign in option
+2023-03-29 22:22:32,262 - logger_File -INFO - user entered sign in values
+2023-03-29 22:22:32,306 - logger_File -INFO - user clicke don the log in button
+2023-03-29 22:22:32,632 - logger_File -INFO - user clicked on the card
+2023-03-29 22:22:32,685 - logger_File -INFO - user clicked on the remove payment method link
+2023-04-03 19:53:55,808 - logger_File -INFO - user is on retail website
+2023-04-03 19:53:55,940 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 19:53:56,084 - logger_File -INFO - user entered sign in values
+2023-04-03 19:53:56,136 - logger_File -INFO - user clicke don the log in button
+2023-04-03 19:53:56,482 - logger_File -INFO - user clicked on the add address option
+2023-04-03 19:53:56,960 - logger_File -INFO - user entered address info
+2023-04-03 19:53:57,023 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 19:55:14,802 - logger_File -INFO - user is on retail website
+2023-04-03 19:55:14,962 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 19:55:15,112 - logger_File -INFO - user entered sign in values
+2023-04-03 19:55:15,164 - logger_File -INFO - user clicke don the log in button
+2023-04-03 19:55:15,502 - logger_File -INFO - user clicked on the add address option
+2023-04-03 19:55:15,957 - logger_File -INFO - user entered address info
+2023-04-03 19:55:16,018 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 19:57:01,362 - logger_File -INFO - user is on retail website
+2023-04-03 19:57:01,485 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 19:57:01,623 - logger_File -INFO - user entered sign in values
+2023-04-03 19:57:01,677 - logger_File -INFO - user clicke don the log in button
+2023-04-03 19:57:02,030 - logger_File -INFO - user clicked on the add address option
+2023-04-03 19:57:02,497 - logger_File -INFO - user entered address info
+2023-04-03 19:57:02,571 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 19:59:42,204 - logger_File -INFO - user is on retail website
+2023-04-03 19:59:42,398 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 19:59:42,539 - logger_File -INFO - user entered sign in values
+2023-04-03 19:59:42,592 - logger_File -INFO - user clicke don the log in button
+2023-04-03 19:59:42,938 - logger_File -INFO - user clicked on the add address option
+2023-04-03 19:59:43,393 - logger_File -INFO - user entered address info
+2023-04-03 19:59:43,462 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 19:59:44,078 - logger_File -INFO - address added successfully
+2023-04-03 20:02:02,789 - logger_File -INFO - user is on retail website
+2023-04-03 20:02:02,889 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:02:03,030 - logger_File -INFO - user entered sign in values
+2023-04-03 20:02:03,085 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:02:03,486 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:02:03,982 - logger_File -INFO - user entered address info
+2023-04-03 20:02:04,060 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:02:59,536 - logger_File -INFO - user is on retail website
+2023-04-03 20:02:59,632 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:02:59,777 - logger_File -INFO - user entered sign in values
+2023-04-03 20:02:59,831 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:03:00,180 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:03:27,841 - logger_File -INFO - user is on retail website
+2023-04-03 20:03:27,966 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:03:28,127 - logger_File -INFO - user entered sign in values
+2023-04-03 20:03:28,180 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:03:28,532 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:03:28,997 - logger_File -INFO - user entered address info
+2023-04-03 20:03:29,064 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:03:29,691 - logger_File -INFO - address added successfully
+2023-04-03 20:32:13,539 - logger_File -INFO - user is on retail website
+2023-04-03 20:32:13,645 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:32:13,798 - logger_File -INFO - user entered sign in values
+2023-04-03 20:32:13,849 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:32:14,256 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:32:14,709 - logger_File -INFO - user entered address info
+2023-04-03 20:32:14,781 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:32:15,402 - logger_File -INFO - address added successfully
+2023-04-03 20:32:23,221 - logger_File -INFO - user is on retail website
+2023-04-03 20:32:23,384 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:32:23,532 - logger_File -INFO - user entered sign in values
+2023-04-03 20:32:23,580 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:32:23,924 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:32:24,381 - logger_File -INFO - user entered address info
+2023-04-03 20:32:24,433 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:35:49,460 - logger_File -INFO - user is on retail website
+2023-04-03 20:35:49,608 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:35:49,758 - logger_File -INFO - user entered sign in values
+2023-04-03 20:35:49,809 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:35:50,153 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:35:50,608 - logger_File -INFO - user entered address info
+2023-04-03 20:35:50,676 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:35:51,311 - logger_File -INFO - address added successfully
+2023-04-03 20:35:59,452 - logger_File -INFO - user is on retail website
+2023-04-03 20:35:59,589 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:35:59,751 - logger_File -INFO - user entered sign in values
+2023-04-03 20:35:59,802 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:36:00,275 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:36:00,995 - logger_File -INFO - user entered address info
+2023-04-03 20:36:01,066 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:36:01,679 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:36:32,931 - logger_File -INFO - user is on retail website
+2023-04-03 20:36:33,035 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:36:33,178 - logger_File -INFO - user entered sign in values
+2023-04-03 20:36:33,231 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:36:33,583 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:36:34,025 - logger_File -INFO - user entered address info
+2023-04-03 20:36:34,092 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:36:34,725 - logger_File -INFO - address added successfully
+2023-04-03 20:36:42,400 - logger_File -INFO - user is on retail website
+2023-04-03 20:36:42,535 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:36:42,706 - logger_File -INFO - user entered sign in values
+2023-04-03 20:36:42,757 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:36:43,101 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:36:43,788 - logger_File -INFO - user entered address info
+2023-04-03 20:36:43,866 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:36:44,469 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:44:51,291 - logger_File -INFO - user is on retail website
+2023-04-03 20:44:51,406 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:44:51,555 - logger_File -INFO - user entered sign in values
+2023-04-03 20:44:51,604 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:44:51,947 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:44:52,408 - logger_File -INFO - user entered address info
+2023-04-03 20:44:52,476 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:44:53,098 - logger_File -INFO - address added successfully
+2023-04-03 20:45:00,787 - logger_File -INFO - user is on retail website
+2023-04-03 20:45:00,967 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:45:01,109 - logger_File -INFO - user entered sign in values
+2023-04-03 20:45:01,157 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:45:01,746 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:45:02,431 - logger_File -INFO - user entered address info
+2023-04-03 20:45:02,497 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:45:03,123 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:45:10,892 - logger_File -INFO - user is on retail website
+2023-04-03 20:45:11,020 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:45:11,182 - logger_File -INFO - user entered sign in values
+2023-04-03 20:45:11,231 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:45:11,564 - logger_File -INFO - user clicked on remove address button
+2023-04-03 20:45:11,564 - logger_File -INFO - address is removed
+2023-04-03 20:46:00,693 - logger_File -INFO - user is on retail website
+2023-04-03 20:46:00,804 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:46:00,949 - logger_File -INFO - user entered sign in values
+2023-04-03 20:46:00,999 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:46:01,339 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:46:01,794 - logger_File -INFO - user entered address info
+2023-04-03 20:46:01,866 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:46:02,489 - logger_File -INFO - address added successfully
+2023-04-03 20:46:11,081 - logger_File -INFO - user is on retail website
+2023-04-03 20:46:11,262 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:46:11,411 - logger_File -INFO - user entered sign in values
+2023-04-03 20:46:11,462 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:46:11,807 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:46:12,518 - logger_File -INFO - user entered address info
+2023-04-03 20:46:12,585 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:46:13,193 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:46:20,997 - logger_File -INFO - user is on retail website
+2023-04-03 20:46:21,162 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:46:21,321 - logger_File -INFO - user entered sign in values
+2023-04-03 20:46:21,369 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:46:21,761 - logger_File -INFO - user clicked on remove address button
+2023-04-03 20:46:21,762 - logger_File -INFO - address is removed
+2023-04-03 20:49:02,366 - logger_File -INFO - user is on retail website
+2023-04-03 20:49:02,495 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:49:02,640 - logger_File -INFO - user entered sign in values
+2023-04-03 20:49:02,689 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:49:03,093 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:49:03,532 - logger_File -INFO - user entered address info
+2023-04-03 20:49:03,600 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:49:04,211 - logger_File -INFO - address added successfully
+2023-04-03 20:49:11,896 - logger_File -INFO - user is on retail website
+2023-04-03 20:49:12,031 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:49:12,199 - logger_File -INFO - user entered sign in values
+2023-04-03 20:49:12,251 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:49:12,594 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:49:13,286 - logger_File -INFO - user entered address info
+2023-04-03 20:49:13,360 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:49:13,979 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:49:21,700 - logger_File -INFO - user is on retail website
+2023-04-03 20:49:21,820 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:49:22,006 - logger_File -INFO - user entered sign in values
+2023-04-03 20:49:22,054 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:49:22,376 - logger_File -INFO - user clicked on remove address button
+2023-04-03 20:49:22,376 - logger_File -INFO - address is removed
+2023-04-03 20:49:59,192 - logger_File -INFO - user is on retail website
+2023-04-03 20:49:59,348 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:49:59,494 - logger_File -INFO - user entered sign in values
+2023-04-03 20:49:59,542 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:49:59,957 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:50:00,425 - logger_File -INFO - user entered address info
+2023-04-03 20:50:00,491 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:50:01,121 - logger_File -INFO - address added successfully
+2023-04-03 20:50:09,184 - logger_File -INFO - user is on retail website
+2023-04-03 20:50:09,361 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:50:09,503 - logger_File -INFO - user entered sign in values
+2023-04-03 20:50:09,550 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:50:09,952 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:50:10,652 - logger_File -INFO - user entered address info
+2023-04-03 20:50:10,707 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:50:11,326 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:50:19,006 - logger_File -INFO - user is on retail website
+2023-04-03 20:50:19,135 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:50:19,303 - logger_File -INFO - user entered sign in values
+2023-04-03 20:50:19,350 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:50:19,761 - logger_File -INFO - user clicked on remove address button
+2023-04-03 20:50:19,761 - logger_File -INFO - address is removed
+2023-04-03 20:53:35,489 - logger_File -INFO - user is on retail website
+2023-04-03 20:53:35,645 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:53:35,787 - logger_File -INFO - user entered sign in values
+2023-04-03 20:53:35,836 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:53:36,181 - logger_File -INFO - user clicked on the add address option
+2023-04-03 20:53:36,634 - logger_File -INFO - user entered address info
+2023-04-03 20:53:36,702 - logger_File -INFO - user clicked on the submit address button
+2023-04-03 20:53:37,330 - logger_File -INFO - address added successfully
+2023-04-03 20:53:45,022 - logger_File -INFO - user is on retail website
+2023-04-03 20:53:45,188 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:53:45,344 - logger_File -INFO - user entered sign in values
+2023-04-03 20:53:45,394 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:53:45,828 - logger_File -INFO - user clicked on the edit address button
+2023-04-03 20:53:46,502 - logger_File -INFO - user entered address info
+2023-04-03 20:53:46,568 - logger_File -INFO - user clicked on the update address button
+2023-04-03 20:53:47,250 - logger_File -INFO - user uodated address info successfully
+2023-04-03 20:53:57,990 - logger_File -INFO - user is on retail website
+2023-04-03 20:53:58,140 - logger_File -INFO - User clicked on the sign in option
+2023-04-03 20:53:58,302 - logger_File -INFO - user entered sign in values
+2023-04-03 20:53:58,351 - logger_File -INFO - user clicke don the log in button
+2023-04-03 20:53:58,674 - logger_File -INFO - user clicked on remove address button
+2023-04-03 20:53:58,674 - logger_File -INFO - address is removed
+2023-04-03 21:51:58,928 - logger_File -INFO - user is on retail website
+2023-04-03 21:51:59,057 - logger_File -INFO - user clicked on the all dropdown
+2023-04-03 21:52:28,214 - logger_File -INFO - user is on retail website
+2023-04-03 21:52:28,389 - logger_File -INFO - user clicked on the all dropdown
+2023-04-03 21:53:36,747 - logger_File -INFO - user is on retail website
+2023-04-03 21:53:36,915 - logger_File -INFO - user clicked on the all dropdown
+2023-04-03 21:54:47,339 - logger_File -INFO - user is on retail website
+2023-04-03 21:54:47,472 - logger_File -INFO - user clicked on the all dropdown
+2023-04-03 21:55:55,434 - logger_File -INFO - user is on retail website
+2023-04-03 21:55:55,602 - logger_File -INFO - user clicked on the all dropdown
+2023-04-03 21:57:03,636 - logger_File -INFO - user is on retail website
+2023-04-03 21:57:03,768 - logger_File -INFO - user clicked on the all dropdown
+2023-04-03 22:00:35,621 - logger_File -INFO - user is on retail website
+2023-04-03 22:00:35,786 - logger_File -INFO - user clicked on All section
+2023-04-03 22:00:43,269 - logger_File -INFO - user is on retail website
+2023-04-03 22:00:43,410 - logger_File -INFO - user clicked on All section
+2023-04-03 22:00:43,504 - logger_File -INFO - TV & Video is present 
+2023-04-03 22:00:43,535 - logger_File -INFO - Video Games is present 
+2023-04-03 22:00:51,947 - logger_File -INFO - user is on retail website
+2023-04-03 22:00:52,110 - logger_File -INFO - user clicked on All section
+2023-04-03 22:00:52,226 - logger_File -INFO - Accessories is present 
+2023-04-03 22:00:52,269 - logger_File -INFO - Networking is present 
+2023-04-03 22:00:59,802 - logger_File -INFO - user is on retail website
+2023-04-03 22:00:59,954 - logger_File -INFO - user clicked on All section
+2023-04-03 22:01:00,062 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-03 22:01:00,091 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-03 22:01:07,675 - logger_File -INFO - user is on retail website
+2023-04-03 22:01:07,836 - logger_File -INFO - user clicked on All section
+2023-04-03 22:01:07,947 - logger_File -INFO - Athletic Clothing is present 
+2023-04-03 22:01:07,976 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-03 22:01:15,556 - logger_File -INFO - user is on retail website
+2023-04-03 22:01:15,707 - logger_File -INFO - user clicked on All section
+2023-04-03 22:01:15,826 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-03 22:01:15,857 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-03 22:03:22,983 - logger_File -INFO - user is on retail website
+2023-04-03 22:03:23,127 - logger_File -INFO - user clicked on All section
+2023-04-03 22:03:30,625 - logger_File -INFO - user is on retail website
+2023-04-03 22:03:30,698 - logger_File -INFO - user clicked on All section
+2023-04-03 22:03:30,802 - logger_File -INFO - TV & Video is present 
+2023-04-03 22:03:30,851 - logger_File -INFO - Video Games is present 
+2023-04-03 22:03:38,197 - logger_File -INFO - user is on retail website
+2023-04-03 22:03:38,365 - logger_File -INFO - user clicked on All section
+2023-04-03 22:03:38,473 - logger_File -INFO - Accessories is present 
+2023-04-03 22:03:38,508 - logger_File -INFO - Networking is present 
+2023-04-03 22:03:45,941 - logger_File -INFO - user is on retail website
+2023-04-03 22:03:46,098 - logger_File -INFO - user clicked on All section
+2023-04-03 22:03:46,212 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-03 22:03:46,246 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-03 22:03:53,845 - logger_File -INFO - user is on retail website
+2023-04-03 22:03:53,915 - logger_File -INFO - user clicked on All section
+2023-04-03 22:03:54,030 - logger_File -INFO - Athletic Clothing is present 
+2023-04-03 22:03:54,061 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-03 22:04:01,696 - logger_File -INFO - user is on retail website
+2023-04-03 22:04:01,841 - logger_File -INFO - user clicked on All section
+2023-04-03 22:04:01,959 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-03 22:04:01,991 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-03 22:05:31,660 - logger_File -INFO - user is on retail website
+2023-04-03 22:05:31,754 - logger_File -INFO - user clicked on All section
+2023-04-03 22:05:39,738 - logger_File -INFO - user is on retail website
+2023-04-03 22:05:39,860 - logger_File -INFO - user clicked on All section
+2023-04-03 22:05:39,962 - logger_File -INFO - TV & Video is present 
+2023-04-03 22:05:39,993 - logger_File -INFO - Video Games is present 
+2023-04-03 22:07:05,918 - logger_File -INFO - user is on retail website
+2023-04-03 22:07:06,099 - logger_File -INFO - user clicked on All section
+2023-04-03 22:07:14,635 - logger_File -INFO - user is on retail website
+2023-04-03 22:07:14,734 - logger_File -INFO - user clicked on All section
+2023-04-03 22:08:23,192 - logger_File -INFO - user is on retail website
+2023-04-03 22:08:23,360 - logger_File -INFO - user clicked on All section
+2023-04-03 22:11:43,959 - logger_File -INFO - user is on retail website
+2023-04-03 22:11:44,049 - logger_File -INFO - user clicked on All section
+2023-04-03 22:13:35,937 - logger_File -INFO - user is on retail website
+2023-04-03 22:13:36,031 - logger_File -INFO - user clicked on All section
+2023-04-03 22:13:36,118 - logger_File -INFO - actual is equal to expected
+2023-04-03 22:13:43,865 - logger_File -INFO - user is on retail website
+2023-04-03 22:13:43,941 - logger_File -INFO - user clicked on All section
+2023-04-03 22:13:44,042 - logger_File -INFO - TV & Video is present 
+2023-04-03 22:13:44,075 - logger_File -INFO - Video Games is present 
+2023-04-03 22:13:51,604 - logger_File -INFO - user is on retail website
+2023-04-03 22:13:51,750 - logger_File -INFO - user clicked on All section
+2023-04-03 22:13:51,857 - logger_File -INFO - Accessories is present 
+2023-04-03 22:13:51,892 - logger_File -INFO - Networking is present 
+2023-04-03 22:13:59,480 - logger_File -INFO - user is on retail website
+2023-04-03 22:13:59,605 - logger_File -INFO - user clicked on All section
+2023-04-03 22:13:59,711 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-03 22:13:59,741 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-03 22:14:07,266 - logger_File -INFO - user is on retail website
+2023-04-03 22:14:07,421 - logger_File -INFO - user clicked on All section
+2023-04-03 22:14:07,531 - logger_File -INFO - Athletic Clothing is present 
+2023-04-03 22:14:07,563 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-03 22:14:15,181 - logger_File -INFO - user is on retail website
+2023-04-03 22:14:15,317 - logger_File -INFO - user clicked on All section
+2023-04-03 22:14:15,436 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-03 22:14:15,469 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-04 22:13:47,557 - logger_File -INFO - user is on retail website
+2023-04-04 22:13:47,685 - logger_File -INFO - user clicked on All section
+2023-04-04 22:13:47,772 - logger_File -INFO - actual is equal to expected
+2023-04-04 22:13:55,177 - logger_File -INFO - user is on retail website
+2023-04-04 22:13:55,310 - logger_File -INFO - user clicked on All section
+2023-04-04 22:13:55,414 - logger_File -INFO - TV & Video is present 
+2023-04-04 22:13:55,449 - logger_File -INFO - Video Games is present 
+2023-04-04 22:14:03,046 - logger_File -INFO - user is on retail website
+2023-04-04 22:14:03,158 - logger_File -INFO - user clicked on All section
+2023-04-04 22:14:03,256 - logger_File -INFO - Accessories is present 
+2023-04-04 22:14:03,289 - logger_File -INFO - Networking is present 
+2023-04-04 22:14:10,856 - logger_File -INFO - user is on retail website
+2023-04-04 22:14:10,989 - logger_File -INFO - user clicked on All section
+2023-04-04 22:14:11,094 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-04 22:14:11,126 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-04 22:14:18,583 - logger_File -INFO - user is on retail website
+2023-04-04 22:14:18,711 - logger_File -INFO - user clicked on All section
+2023-04-04 22:14:18,818 - logger_File -INFO - Athletic Clothing is present 
+2023-04-04 22:14:18,848 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-04 22:14:26,309 - logger_File -INFO - user is on retail website
+2023-04-04 22:14:26,421 - logger_File -INFO - user clicked on All section
+2023-04-04 22:14:26,536 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-04 22:14:26,577 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-04 22:16:53,072 - logger_File -INFO - user is on retail website
+2023-04-04 22:16:53,199 - logger_File -INFO - user clicked on All section
+2023-04-04 22:16:53,284 - logger_File -INFO - actual is equal to expected
+2023-04-04 22:17:00,629 - logger_File -INFO - user is on retail website
+2023-04-04 22:17:00,755 - logger_File -INFO - user clicked on All section
+2023-04-04 22:17:00,856 - logger_File -INFO - TV & Video is present 
+2023-04-04 22:17:00,888 - logger_File -INFO - Video Games is present 
+2023-04-04 22:17:08,398 - logger_File -INFO - user is on retail website
+2023-04-04 22:17:08,526 - logger_File -INFO - user clicked on All section
+2023-04-04 22:17:08,626 - logger_File -INFO - Accessories is present 
+2023-04-04 22:17:08,658 - logger_File -INFO - Networking is present 
+2023-04-04 22:17:16,399 - logger_File -INFO - user is on retail website
+2023-04-04 22:17:16,480 - logger_File -INFO - user clicked on All section
+2023-04-04 22:17:16,593 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-04 22:17:16,627 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-04 22:17:24,163 - logger_File -INFO - user is on retail website
+2023-04-04 22:17:24,235 - logger_File -INFO - user clicked on All section
+2023-04-04 22:17:24,430 - logger_File -INFO - Athletic Clothing is present 
+2023-04-04 22:17:24,460 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-04 22:17:31,911 - logger_File -INFO - user is on retail website
+2023-04-04 22:17:31,982 - logger_File -INFO - user clicked on All section
+2023-04-04 22:17:32,102 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-04 22:17:32,133 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-04 22:24:23,955 - logger_File -INFO - user selected product category
+2023-04-04 22:24:24,048 - logger_File -INFO - user entered product in search bar
+2023-04-04 22:24:24,098 - logger_File -INFO - user clicked on the search button
+2023-04-04 22:24:24,215 - logger_File -INFO - user clicked on the product
+2023-04-04 22:24:24,216 - logger_File -INFO - user selected product quantity
+2023-04-04 22:24:24,324 - logger_File -INFO - user clicked on add to cart button
+2023-04-04 22:26:03,247 - logger_File -INFO - user selected product category
+2023-04-04 22:26:03,391 - logger_File -INFO - user entered product in search bar
+2023-04-04 22:26:03,442 - logger_File -INFO - user clicked on the search button
+2023-04-04 22:26:03,567 - logger_File -INFO - user clicked on the product
+2023-04-04 22:26:03,567 - logger_File -INFO - user selected product quantity
+2023-04-04 22:26:03,687 - logger_File -INFO - user clicked on add to cart button
+2023-04-04 22:27:31,301 - logger_File -INFO - user selected product category
+2023-04-04 22:27:31,428 - logger_File -INFO - user entered product in search bar
+2023-04-04 22:27:31,480 - logger_File -INFO - user clicked on the search button
+2023-04-04 22:27:31,594 - logger_File -INFO - user clicked on the product
+2023-04-04 22:27:31,594 - logger_File -INFO - user selected product quantity
+2023-04-04 22:27:31,704 - logger_File -INFO - user clicked on add to cart button
+2023-04-04 22:28:23,796 - logger_File -INFO - user selected product category
+2023-04-04 22:28:23,889 - logger_File -INFO - user entered product in search bar
+2023-04-04 22:28:23,943 - logger_File -INFO - user clicked on the search button
+2023-04-04 22:28:24,058 - logger_File -INFO - user clicked on the product
+2023-04-04 22:28:24,059 - logger_File -INFO - user selected product quantity
+2023-04-04 22:28:24,172 - logger_File -INFO - user clicked on add to cart button
+2023-04-04 22:29:34,701 - logger_File -INFO - user selected product category
+2023-04-04 22:29:34,793 - logger_File -INFO - user entered product in search bar
+2023-04-04 22:29:34,845 - logger_File -INFO - user clicked on the search button
+2023-04-04 22:29:34,965 - logger_File -INFO - user clicked on the product
+2023-04-04 22:29:34,966 - logger_File -INFO - user selected product quantity
+2023-04-04 22:29:35,089 - logger_File -INFO - user clicked on add to cart button
+2023-04-05 00:48:16,323 - logger_File -INFO - user selected product category
+2023-04-05 00:48:16,411 - logger_File -INFO - user entered product in search bar
+2023-04-05 00:48:16,463 - logger_File -INFO - user clicked on the search button
+2023-04-05 00:48:16,588 - logger_File -INFO - user clicked on the product
+2023-04-05 00:50:56,838 - logger_File -INFO - user selected product category
+2023-04-05 00:50:56,931 - logger_File -INFO - user entered product in search bar
+2023-04-05 00:50:56,986 - logger_File -INFO - user clicked on the search button
+2023-04-05 00:50:57,110 - logger_File -INFO - user clicked on the product
+2023-04-05 00:51:52,538 - logger_File -INFO - user selected product category
+2023-04-05 00:51:52,640 - logger_File -INFO - user entered product in search bar
+2023-04-05 00:51:52,697 - logger_File -INFO - user clicked on the search button
+2023-04-05 00:51:52,826 - logger_File -INFO - user clicked on the product
+2023-04-05 00:59:51,353 - logger_File -INFO - user selected product category
+2023-04-05 00:59:51,443 - logger_File -INFO - user entered product in search bar
+2023-04-05 00:59:51,498 - logger_File -INFO - user clicked on the search button
+2023-04-05 00:59:51,610 - logger_File -INFO - user clicked on the product
+2023-04-05 00:59:51,740 - logger_File -INFO - user selected product quantity
+2023-04-05 00:59:51,810 - logger_File -INFO - user clicked on add to cart button
+2023-04-05 01:07:32,822 - logger_File -INFO - user selected product category
+2023-04-05 01:07:32,911 - logger_File -INFO - user entered product in search bar
+2023-04-05 01:07:32,965 - logger_File -INFO - user clicked on the search button
+2023-04-05 01:07:33,079 - logger_File -INFO - user clicked on the product
+2023-04-05 01:07:33,195 - logger_File -INFO - user selected product quantity
+2023-04-05 01:07:33,258 - logger_File -INFO - user clicked on add to cart button
+2023-04-05 01:18:24,549 - logger_File -INFO - user selected product category
+2023-04-05 01:18:24,639 - logger_File -INFO - user entered product in search bar
+2023-04-05 01:18:24,694 - logger_File -INFO - user clicked on the search button
+2023-04-05 01:18:24,816 - logger_File -INFO - user clicked on the product
+2023-04-05 01:18:24,943 - logger_File -INFO - user selected product quantity
+2023-04-05 01:18:25,010 - logger_File -INFO - user clicked on add to cart button
+2023-04-05 01:20:43,135 - logger_File -INFO - user selected product category
+2023-04-05 01:20:43,234 - logger_File -INFO - user entered product in search bar
+2023-04-05 01:20:43,285 - logger_File -INFO - user clicked on the search button
+2023-04-05 01:20:43,391 - logger_File -INFO - user clicked on the product
+2023-04-05 01:20:43,519 - logger_File -INFO - user selected product quantity
+2023-04-05 01:20:43,565 - logger_File -INFO - user clicked on add to cart button
+2023-04-05 01:23:24,976 - logger_File -INFO - user selected product category
+2023-04-05 01:23:25,133 - logger_File -INFO - user entered product in search bar
+2023-04-05 01:23:25,186 - logger_File -INFO - user clicked on the search button
+2023-04-05 01:23:25,301 - logger_File -INFO - user clicked on the product
+2023-04-05 01:23:25,413 - logger_File -INFO - user selected product quantity
+2023-04-05 01:24:44,090 - logger_File -INFO - user selected product category
+2023-04-05 01:24:44,185 - logger_File -INFO - user entered product in search bar
+2023-04-05 01:24:44,239 - logger_File -INFO - user clicked on the search button
+2023-04-05 01:24:44,361 - logger_File -INFO - user clicked on the product
+2023-04-05 01:24:44,492 - logger_File -INFO - user selected product quantity
+2023-04-05 01:24:44,559 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 21:52:21,090 - logger_File -INFO - user selected product category
+2023-04-05 21:52:21,178 - logger_File -INFO - user entered product in search bar
+2023-04-05 21:52:21,236 - logger_File -INFO - user clicked on the search button
+2023-04-05 21:52:21,344 - logger_File -INFO - user clicked on the product
+2023-04-05 21:52:21,461 - logger_File -INFO - user selected product quantity
+2023-04-05 21:52:21,511 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 21:53:00,833 - logger_File -INFO - user selected product category
+2023-04-05 21:53:00,934 - logger_File -INFO - user entered product in search bar
+2023-04-05 21:53:00,988 - logger_File -INFO - user clicked on the search button
+2023-04-05 21:53:01,104 - logger_File -INFO - user clicked on the product
+2023-04-05 21:53:01,233 - logger_File -INFO - user selected product quantity
+2023-04-05 21:53:01,299 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 21:56:50,325 - logger_File -INFO - user selected product category
+2023-04-05 21:56:50,424 - logger_File -INFO - user entered product in search bar
+2023-04-05 21:56:50,476 - logger_File -INFO - user clicked on the search button
+2023-04-05 21:56:50,597 - logger_File -INFO - user clicked on the product
+2023-04-05 21:56:50,733 - logger_File -INFO - user selected product quantity
+2023-04-05 21:56:50,798 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 21:59:19,473 - logger_File -INFO - user selected product category
+2023-04-05 21:59:19,614 - logger_File -INFO - user entered product in search bar
+2023-04-05 21:59:19,667 - logger_File -INFO - user clicked on the search button
+2023-04-05 21:59:19,784 - logger_File -INFO - user clicked on the product
+2023-04-05 21:59:19,904 - logger_File -INFO - user selected product quantity
+2023-04-05 21:59:19,969 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 22:30:10,847 - logger_File -INFO - user selected product category
+2023-04-05 22:30:10,940 - logger_File -INFO - user entered product in search bar
+2023-04-05 22:30:10,993 - logger_File -INFO - user clicked on the search button
+2023-04-05 22:30:11,104 - logger_File -INFO - user clicked on the product
+2023-04-05 22:30:11,229 - logger_File -INFO - user selected product quantity
+2023-04-05 22:30:11,293 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 22:31:22,555 - logger_File -INFO - user selected product category
+2023-04-05 22:31:22,656 - logger_File -INFO - user entered product in search bar
+2023-04-05 22:31:22,715 - logger_File -INFO - user clicked on the search button
+2023-04-05 22:31:22,822 - logger_File -INFO - user clicked on the product
+2023-04-05 22:31:22,953 - logger_File -INFO - user selected product quantity
+2023-04-05 22:31:23,018 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 22:32:02,518 - logger_File -INFO - user selected product category
+2023-04-05 22:32:02,673 - logger_File -INFO - user entered product in search bar
+2023-04-05 22:32:02,729 - logger_File -INFO - user clicked on the search button
+2023-04-05 22:32:02,847 - logger_File -INFO - user clicked on the product
+2023-04-05 22:32:02,965 - logger_File -INFO - user selected product quantity
+2023-04-05 22:32:03,028 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 22:35:58,208 - logger_File -INFO - user selected product category
+2023-04-05 22:35:58,299 - logger_File -INFO - user entered product in search bar
+2023-04-05 22:35:58,353 - logger_File -INFO - user clicked on the search button
+2023-04-05 22:35:58,477 - logger_File -INFO - user clicked on the product
+2023-04-05 22:35:58,602 - logger_File -INFO - user selected product quantity
+2023-04-05 22:35:58,669 - logger_File -INFO - user clicked on the add to cart button
+2023-04-05 22:35:58,722 - logger_File -INFO - user clicked on the cart option
+2023-04-06 21:03:13,974 - logger_File -INFO - user selected product category
+2023-04-06 21:03:14,067 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:03:14,127 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:03:14,238 - logger_File -INFO - user clicked on the product
+2023-04-06 21:03:14,356 - logger_File -INFO - user selected product quantity
+2023-04-06 21:03:14,403 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:03:14,477 - logger_File -INFO - user clicked on the cart option
+2023-04-06 21:34:09,017 - logger_File -INFO - user selected product category
+2023-04-06 21:34:09,120 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:34:09,172 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:34:09,294 - logger_File -INFO - user clicked on the product
+2023-04-06 21:34:09,422 - logger_File -INFO - user selected product quantity
+2023-04-06 21:34:09,489 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:34:09,540 - logger_File -INFO - user clicked on the cart option
+2023-04-06 21:37:44,373 - logger_File -INFO - user selected product category
+2023-04-06 21:37:44,472 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:37:44,528 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:37:44,652 - logger_File -INFO - user clicked on the product
+2023-04-06 21:37:44,777 - logger_File -INFO - user selected product quantity
+2023-04-06 21:39:36,375 - logger_File -INFO - user is on retail website
+2023-04-06 21:39:36,462 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:39:36,641 - logger_File -INFO - user entered sign in values
+2023-04-06 21:39:36,697 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:39:36,948 - logger_File -INFO - user selected product category
+2023-04-06 21:39:37,026 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:39:37,076 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:39:37,196 - logger_File -INFO - user clicked on the product
+2023-04-06 21:39:37,307 - logger_File -INFO - user selected product quantity
+2023-04-06 21:39:37,378 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:39:37,445 - logger_File -INFO - user clicked on the cart option
+2023-04-06 21:39:37,512 - logger_File -INFO - user clicked on the check out button
+2023-04-06 21:39:37,584 - logger_File -INFO - user clikced on the shipping address add button
+2023-04-06 21:39:37,990 - logger_File -INFO - user entered address info
+2023-04-06 21:39:38,065 - logger_File -INFO - user clicked on the submit address button
+2023-04-06 21:39:38,149 - logger_File -INFO - user clicked on the add payment method button
+2023-04-06 21:39:38,429 - logger_File -INFO - user added new card info
+2023-04-06 21:39:38,484 - logger_File -INFO - user clicked on the add your card button
+2023-04-06 21:40:32,539 - logger_File -INFO - user is on retail website
+2023-04-06 21:40:32,615 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:40:32,789 - logger_File -INFO - user entered sign in values
+2023-04-06 21:40:32,838 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:40:33,156 - logger_File -INFO - user selected product category
+2023-04-06 21:40:33,233 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:40:33,283 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:40:33,400 - logger_File -INFO - user clicked on the product
+2023-04-06 21:40:33,513 - logger_File -INFO - user selected product quantity
+2023-04-06 21:40:33,559 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:40:33,641 - logger_File -INFO - user clicked on the cart option
+2023-04-06 21:40:33,705 - logger_File -INFO - user clicked on the check out button
+2023-04-06 21:40:33,778 - logger_File -INFO - user clikced on the shipping address add button
+2023-04-06 21:40:34,204 - logger_File -INFO - user entered address info
+2023-04-06 21:40:34,285 - logger_File -INFO - user clicked on the submit address button
+2023-04-06 21:40:34,364 - logger_File -INFO - user clicked on the add payment method button
+2023-04-06 21:40:34,640 - logger_File -INFO - user added new card info
+2023-04-06 21:40:34,696 - logger_File -INFO - user clicked on the add your card button
+2023-04-06 21:44:43,849 - logger_File -INFO - user is on retail website
+2023-04-06 21:44:44,000 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:44:44,170 - logger_File -INFO - user entered sign in values
+2023-04-06 21:44:44,220 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:44:44,480 - logger_File -INFO - user selected product category
+2023-04-06 21:44:44,540 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:44:44,590 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:44:44,699 - logger_File -INFO - user clicked on the product
+2023-04-06 21:44:44,827 - logger_File -INFO - user selected product quantity
+2023-04-06 21:44:44,877 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:46:13,137 - logger_File -INFO - user is on retail website
+2023-04-06 21:46:13,289 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:46:13,472 - logger_File -INFO - user entered sign in values
+2023-04-06 21:46:13,522 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:46:13,838 - logger_File -INFO - user selected product category
+2023-04-06 21:46:13,917 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:46:13,966 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:46:14,074 - logger_File -INFO - user clicked on the product
+2023-04-06 21:46:14,183 - logger_File -INFO - user selected product quantity
+2023-04-06 21:46:14,230 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:48:27,349 - logger_File -INFO - user is on retail website
+2023-04-06 21:48:27,516 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:48:27,662 - logger_File -INFO - user entered sign in values
+2023-04-06 21:48:27,712 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:50:14,640 - logger_File -INFO - user is on retail website
+2023-04-06 21:50:14,786 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:50:14,927 - logger_File -INFO - user entered sign in values
+2023-04-06 21:50:14,977 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:50:15,238 - logger_File -INFO - user selected product category
+2023-04-06 21:50:15,314 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:50:15,365 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:50:15,483 - logger_File -INFO - user clicked on the product
+2023-04-06 21:50:15,594 - logger_File -INFO - user selected product quantity
+2023-04-06 21:50:15,646 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:54:46,896 - logger_File -INFO - user is on retail website
+2023-04-06 21:54:47,054 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:54:47,196 - logger_File -INFO - user entered sign in values
+2023-04-06 21:54:47,249 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:54:47,508 - logger_File -INFO - user selected product category
+2023-04-06 21:54:47,583 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:54:47,632 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:54:47,743 - logger_File -INFO - user clicked on the product
+2023-04-06 21:54:47,865 - logger_File -INFO - user selected product quantity
+2023-04-06 21:54:47,912 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 21:57:04,037 - logger_File -INFO - user is on retail website
+2023-04-06 21:57:04,125 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 21:57:04,270 - logger_File -INFO - user entered sign in values
+2023-04-06 21:57:04,321 - logger_File -INFO - user clicke don the log in button
+2023-04-06 21:57:04,694 - logger_File -INFO - user selected product category
+2023-04-06 21:57:04,771 - logger_File -INFO - user entered product in search bar
+2023-04-06 21:57:04,822 - logger_File -INFO - user clicked on the search button
+2023-04-06 21:57:04,943 - logger_File -INFO - user clicked on the product
+2023-04-06 21:57:05,074 - logger_File -INFO - user selected product quantity
+2023-04-06 21:57:05,121 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:10:02,074 - logger_File -INFO - user is on retail website
+2023-04-06 22:10:02,235 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:10:02,379 - logger_File -INFO - user entered sign in values
+2023-04-06 22:10:02,428 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:10:02,679 - logger_File -INFO - user selected product category
+2023-04-06 22:10:02,754 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:10:02,804 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:10:02,925 - logger_File -INFO - user clicked on the product
+2023-04-06 22:10:03,038 - logger_File -INFO - user selected product quantity
+2023-04-06 22:10:03,086 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:12:17,093 - logger_File -INFO - user is on retail website
+2023-04-06 22:12:17,170 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:12:17,317 - logger_File -INFO - user entered sign in values
+2023-04-06 22:12:17,368 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:12:17,621 - logger_File -INFO - user selected product category
+2023-04-06 22:12:17,702 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:12:17,753 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:12:17,870 - logger_File -INFO - user clicked on the product
+2023-04-06 22:12:17,994 - logger_File -INFO - user selected product quantity
+2023-04-06 22:12:18,040 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:13:50,553 - logger_File -INFO - user is on retail website
+2023-04-06 22:13:50,637 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:13:50,775 - logger_File -INFO - user entered sign in values
+2023-04-06 22:13:50,826 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:13:51,146 - logger_File -INFO - user selected product category
+2023-04-06 22:13:51,208 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:13:51,259 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:13:51,371 - logger_File -INFO - user clicked on the product
+2023-04-06 22:13:51,486 - logger_File -INFO - user selected product quantity
+2023-04-06 22:13:51,538 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:16:43,540 - logger_File -INFO - user is on retail website
+2023-04-06 22:16:43,688 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:16:43,821 - logger_File -INFO - user entered sign in values
+2023-04-06 22:16:43,875 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:16:44,133 - logger_File -INFO - user selected product category
+2023-04-06 22:16:44,192 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:16:44,242 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:16:44,357 - logger_File -INFO - user clicked on the product
+2023-04-06 22:16:44,484 - logger_File -INFO - user selected product quantity
+2023-04-06 22:16:44,532 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:16:44,626 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-06 22:19:06,954 - logger_File -INFO - user is on retail website
+2023-04-06 22:19:07,025 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:19:07,163 - logger_File -INFO - user entered sign in values
+2023-04-06 22:19:07,212 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:19:07,469 - logger_File -INFO - user selected product category
+2023-04-06 22:19:07,529 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:19:07,579 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:19:07,695 - logger_File -INFO - user clicked on the product
+2023-04-06 22:19:07,812 - logger_File -INFO - user selected product quantity
+2023-04-06 22:19:07,860 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:19:27,011 - logger_File -INFO - user is on retail website
+2023-04-06 22:19:27,100 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:19:27,248 - logger_File -INFO - user entered sign in values
+2023-04-06 22:19:27,298 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:19:27,542 - logger_File -INFO - user selected product category
+2023-04-06 22:19:27,619 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:19:27,669 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:19:27,777 - logger_File -INFO - user clicked on the product
+2023-04-06 22:19:27,886 - logger_File -INFO - user selected product quantity
+2023-04-06 22:19:27,935 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:20:31,443 - logger_File -INFO - user is on retail website
+2023-04-06 22:20:31,534 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:20:31,707 - logger_File -INFO - user entered sign in values
+2023-04-06 22:20:31,761 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:20:32,014 - logger_File -INFO - user selected product category
+2023-04-06 22:20:32,076 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:20:32,127 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:20:32,235 - logger_File -INFO - user clicked on the product
+2023-04-06 22:20:32,361 - logger_File -INFO - user selected product quantity
+2023-04-06 22:20:32,407 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:20:32,493 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-06 22:20:32,549 - logger_File -INFO - user clicked on the cart option
+2023-04-06 22:20:32,616 - logger_File -INFO - user clicked on the check out button
+2023-04-06 22:20:32,687 - logger_File -INFO - user clikced on the shipping address add button
+2023-04-06 22:20:33,100 - logger_File -INFO - user entered address info
+2023-04-06 22:20:33,176 - logger_File -INFO - user clicked on the submit address button
+2023-04-06 22:20:33,250 - logger_File -INFO - user clicked on the add payment method button
+2023-04-06 22:20:33,527 - logger_File -INFO - user added new card info
+2023-04-06 22:20:33,580 - logger_File -INFO - user clicked on the add your card button
+2023-04-06 22:26:46,315 - logger_File -INFO - user is on retail website
+2023-04-06 22:26:46,398 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:26:46,540 - logger_File -INFO - user entered sign in values
+2023-04-06 22:26:46,590 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:26:46,853 - logger_File -INFO - user selected product category
+2023-04-06 22:26:46,930 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:26:46,980 - logger_File -INFO - user clicked on the search button
+2023-04-06 22:26:47,097 - logger_File -INFO - user clicked on the product
+2023-04-06 22:26:47,208 - logger_File -INFO - user selected product quantity
+2023-04-06 22:26:47,255 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 22:26:47,338 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-06 22:26:47,399 - logger_File -INFO - user clicked on the cart option
+2023-04-06 22:26:47,469 - logger_File -INFO - user clicked on the check out button
+2023-04-06 22:26:47,539 - logger_File -INFO - user clikced on the shipping address add button
+2023-04-06 22:26:47,952 - logger_File -INFO - user entered address info
+2023-04-06 22:26:48,030 - logger_File -INFO - user clicked on the submit address button
+2023-04-06 22:26:48,112 - logger_File -INFO - user clicked on the add payment method button
+2023-04-06 22:26:48,405 - logger_File -INFO - user added new card info
+2023-04-06 22:26:48,459 - logger_File -INFO - user clicked on the add your card button
+2023-04-06 22:26:49,044 - logger_File -INFO - user placed the order
+2023-04-06 22:26:49,192 - logger_File -INFO - order placed thanks Message displayed
+2023-04-06 22:47:38,161 - logger_File -INFO - user is on retail website
+2023-04-06 22:47:38,339 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:47:38,478 - logger_File -INFO - user entered sign in values
+2023-04-06 22:47:38,529 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:51:02,040 - logger_File -INFO - user is on retail website
+2023-04-06 22:51:02,197 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:51:02,343 - logger_File -INFO - user entered sign in values
+2023-04-06 22:51:02,392 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:53:51,281 - logger_File -INFO - user is on retail website
+2023-04-06 22:53:51,357 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:53:51,503 - logger_File -INFO - user entered sign in values
+2023-04-06 22:53:51,554 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:55:08,230 - logger_File -INFO - user is on retail website
+2023-04-06 22:55:08,320 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:55:08,463 - logger_File -INFO - user entered sign in values
+2023-04-06 22:55:08,513 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:55:08,911 - logger_File -INFO - user is on retail website
+2023-04-06 22:56:31,053 - logger_File -INFO - user is on retail website
+2023-04-06 22:56:31,172 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 22:56:31,318 - logger_File -INFO - user entered sign in values
+2023-04-06 22:56:31,369 - logger_File -INFO - user clicke don the log in button
+2023-04-06 22:56:31,619 - logger_File -INFO - user selected product category
+2023-04-06 22:56:31,684 - logger_File -INFO - user entered product in search bar
+2023-04-06 22:56:31,732 - logger_File -INFO - user clicked on the search button
+2023-04-06 23:08:19,810 - logger_File -INFO - user is on retail website
+2023-04-06 23:08:19,998 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 23:08:20,159 - logger_File -INFO - user entered sign in values
+2023-04-06 23:08:20,221 - logger_File -INFO - user clicke don the log in button
+2023-04-06 23:08:20,490 - logger_File -INFO - user selected product category
+2023-04-06 23:08:20,572 - logger_File -INFO - user entered product in search bar
+2023-04-06 23:08:20,625 - logger_File -INFO - user clicked on the search button
+2023-04-06 23:15:17,983 - logger_File -INFO - user is on retail website
+2023-04-06 23:15:18,103 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 23:15:18,249 - logger_File -INFO - user entered sign in values
+2023-04-06 23:15:18,302 - logger_File -INFO - user clicke don the log in button
+2023-04-06 23:15:18,568 - logger_File -INFO - user selected product category
+2023-04-06 23:15:18,637 - logger_File -INFO - user entered product in search bar
+2023-04-06 23:15:18,687 - logger_File -INFO - user clicked on the search button
+2023-04-06 23:15:18,801 - logger_File -INFO - user clicked on the product
+2023-04-06 23:15:18,926 - logger_File -INFO - user selected product quantity
+2023-04-06 23:15:18,980 - logger_File -INFO - user clicked on the add to cart button
+2023-04-06 23:15:19,075 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-06 23:15:19,136 - logger_File -INFO - user clicked on the cart option
+2023-04-06 23:15:19,204 - logger_File -INFO - user clicked on the check out button
+2023-04-06 23:15:19,270 - logger_File -INFO - user placed the order
+2023-04-06 23:15:19,418 - logger_File -INFO - order placed thanks Message displayed
+2023-04-06 23:36:23,968 - logger_File -INFO - user is on retail website
+2023-04-06 23:36:24,106 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 23:36:24,246 - logger_File -INFO - user entered sign in values
+2023-04-06 23:36:24,298 - logger_File -INFO - user clicke don the log in button
+2023-04-06 23:36:24,569 - logger_File -INFO - user clicked ont the order section
+2023-04-06 23:36:24,700 - logger_File -INFO - user clicked on the first order
+2023-04-06 23:41:36,147 - logger_File -INFO - user is on retail website
+2023-04-06 23:41:36,317 - logger_File -INFO - User clicked on the sign in option
+2023-04-06 23:41:36,481 - logger_File -INFO - user entered sign in values
+2023-04-06 23:41:36,537 - logger_File -INFO - user clicke don the log in button
+2023-04-06 23:41:36,811 - logger_File -INFO - user clicked ont the order section
+2023-04-06 23:41:36,885 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:03:16,979 - logger_File -INFO - user is on retail website
+2023-04-07 00:03:17,152 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:03:17,296 - logger_File -INFO - user entered sign in values
+2023-04-07 00:03:17,353 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:03:17,629 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:03:17,697 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:16:13,189 - logger_File -INFO - user is on retail website
+2023-04-07 00:16:13,287 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:16:13,435 - logger_File -INFO - user entered sign in values
+2023-04-07 00:16:13,486 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:16:13,773 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:16:13,839 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:16:21,740 - logger_File -INFO - user clicked on the cancel order button
+2023-04-07 00:16:21,873 - logger_File -INFO - user selected cancel reason
+2023-04-07 00:16:21,933 - logger_File -INFO - user submitted order cancellation
+2023-04-07 00:19:13,305 - logger_File -INFO - user is on retail website
+2023-04-07 00:19:13,388 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:19:13,536 - logger_File -INFO - user entered sign in values
+2023-04-07 00:19:13,597 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:19:13,893 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:19:13,960 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:20:47,598 - logger_File -INFO - user is on retail website
+2023-04-07 00:20:47,771 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:20:47,928 - logger_File -INFO - user entered sign in values
+2023-04-07 00:20:47,983 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:20:48,265 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:20:48,325 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:20:49,826 - logger_File -INFO - user clicked on the cancel order button
+2023-04-07 00:20:49,959 - logger_File -INFO - user selected cancel reason
+2023-04-07 00:20:50,016 - logger_File -INFO - user submitted order cancellation
+2023-04-07 00:24:04,970 - logger_File -INFO - user is on retail website
+2023-04-07 00:24:05,118 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:24:05,266 - logger_File -INFO - user entered sign in values
+2023-04-07 00:24:05,320 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:24:05,593 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:24:05,666 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:24:07,549 - logger_File -INFO - user clicked on the cancel order button
+2023-04-07 00:24:07,690 - logger_File -INFO - user selected cancel reason
+2023-04-07 00:24:07,749 - logger_File -INFO - user submitted order cancellation
+2023-04-07 00:28:49,679 - logger_File -INFO - user is on retail website
+2023-04-07 00:28:49,846 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:28:49,995 - logger_File -INFO - user entered sign in values
+2023-04-07 00:28:50,047 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:28:50,382 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:28:50,445 - logger_File -INFO - user clicked on the first order
+2023-04-07 00:57:25,752 - logger_File -INFO - user is on retail website
+2023-04-07 00:57:25,893 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:57:26,046 - logger_File -INFO - user entered sign in values
+2023-04-07 00:57:26,100 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:57:26,386 - logger_File -INFO - user clicked ont the order section
+2023-04-07 00:58:30,797 - logger_File -INFO - user is on retail website
+2023-04-07 00:58:30,967 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 00:58:31,176 - logger_File -INFO - user entered sign in values
+2023-04-07 00:58:31,228 - logger_File -INFO - user clicke don the log in button
+2023-04-07 00:58:31,516 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:00:40,838 - logger_File -INFO - user is on retail website
+2023-04-07 01:00:40,984 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:00:41,185 - logger_File -INFO - user entered sign in values
+2023-04-07 01:00:41,272 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:00:41,560 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:01:35,106 - logger_File -INFO - user is on retail website
+2023-04-07 01:01:35,234 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:01:35,389 - logger_File -INFO - user entered sign in values
+2023-04-07 01:01:35,445 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:01:35,724 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:01:35,791 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:01:37,303 - logger_File -INFO - user clicked on the cancel order button
+2023-04-07 01:01:37,431 - logger_File -INFO - user selected cancel reason
+2023-04-07 01:01:37,486 - logger_File -INFO - user submitted order cancellation
+2023-04-07 01:08:58,914 - logger_File -INFO - user is on retail website
+2023-04-07 01:08:59,093 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:08:59,236 - logger_File -INFO - user entered sign in values
+2023-04-07 01:08:59,289 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:08:59,542 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:08:59,669 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:09:40,454 - logger_File -INFO - user is on retail website
+2023-04-07 01:09:40,608 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:09:40,785 - logger_File -INFO - user entered sign in values
+2023-04-07 01:09:40,840 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:09:41,106 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:09:41,189 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:09:42,242 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:09:42,359 - logger_File -INFO - user selected return reason
+2023-04-07 01:11:13,095 - logger_File -INFO - user is on retail website
+2023-04-07 01:11:13,248 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:11:13,412 - logger_File -INFO - user entered sign in values
+2023-04-07 01:11:13,469 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:11:13,738 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:11:13,814 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:11:14,744 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:11:14,869 - logger_File -INFO - user selected return reason
+2023-04-07 01:12:36,587 - logger_File -INFO - user is on retail website
+2023-04-07 01:12:36,762 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:12:36,934 - logger_File -INFO - user entered sign in values
+2023-04-07 01:12:36,990 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:12:37,281 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:12:37,345 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:12:38,144 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:12:38,267 - logger_File -INFO - user selected return reason
+2023-04-07 01:14:12,033 - logger_File -INFO - user is on retail website
+2023-04-07 01:14:12,135 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:14:12,294 - logger_File -INFO - user entered sign in values
+2023-04-07 01:14:12,349 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:14:12,607 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:14:12,731 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:14:13,537 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:14:13,661 - logger_File -INFO - user selected return reason
+2023-04-07 01:14:52,530 - logger_File -INFO - user is on retail website
+2023-04-07 01:14:52,622 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:14:52,776 - logger_File -INFO - user entered sign in values
+2023-04-07 01:14:52,828 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:14:53,112 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:14:53,186 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:14:54,143 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:14:54,266 - logger_File -INFO - user selected return reason
+2023-04-07 01:16:08,179 - logger_File -INFO - user is on retail website
+2023-04-07 01:16:08,430 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:16:08,599 - logger_File -INFO - user entered sign in values
+2023-04-07 01:16:08,652 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:16:08,942 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:16:09,013 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:16:09,891 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:16:10,020 - logger_File -INFO - user selected return reason
+2023-04-07 01:16:47,902 - logger_File -INFO - user is on retail website
+2023-04-07 01:16:48,036 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:16:48,196 - logger_File -INFO - user entered sign in values
+2023-04-07 01:16:48,247 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:16:48,516 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:16:48,645 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:16:49,466 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:16:49,593 - logger_File -INFO - user selected return reason
+2023-04-07 01:17:47,365 - logger_File -INFO - user is on retail website
+2023-04-07 01:17:47,521 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:17:47,692 - logger_File -INFO - user entered sign in values
+2023-04-07 01:17:47,749 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:17:48,636 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:17:48,786 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:17:49,470 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:17:49,608 - logger_File -INFO - user selected return reason
+2023-04-07 01:18:35,514 - logger_File -INFO - user is on retail website
+2023-04-07 01:18:35,630 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:18:35,783 - logger_File -INFO - user entered sign in values
+2023-04-07 01:18:35,838 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:18:36,098 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:18:36,185 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:18:37,011 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:18:37,136 - logger_File -INFO - user selected return reason
+2023-04-07 01:18:37,259 - logger_File -INFO - user selected drop off option
+2023-04-07 01:20:17,475 - logger_File -INFO - user is on retail website
+2023-04-07 01:20:17,633 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:20:17,788 - logger_File -INFO - user entered sign in values
+2023-04-07 01:20:17,839 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:20:18,122 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:20:18,193 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:20:18,883 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:20:19,008 - logger_File -INFO - user selected return reason
+2023-04-07 01:20:19,123 - logger_File -INFO - user selected drop off option
+2023-04-07 01:20:19,181 - logger_File -INFO - user submitted return order
+2023-04-07 01:21:16,208 - logger_File -INFO - user is on retail website
+2023-04-07 01:21:16,303 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:21:16,459 - logger_File -INFO - user entered sign in values
+2023-04-07 01:21:16,512 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:21:16,800 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:21:16,862 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:21:45,655 - logger_File -INFO - user is on retail website
+2023-04-07 01:21:45,792 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 01:21:45,967 - logger_File -INFO - user entered sign in values
+2023-04-07 01:21:46,026 - logger_File -INFO - user clicke don the log in button
+2023-04-07 01:21:46,305 - logger_File -INFO - user clicked ont the order section
+2023-04-07 01:21:46,364 - logger_File -INFO - user clicked on the first order
+2023-04-07 01:21:47,181 - logger_File -INFO - user clicked on the return button
+2023-04-07 01:21:47,316 - logger_File -INFO - user selected return reason
+2023-04-07 01:21:47,428 - logger_File -INFO - user selected drop off option
+2023-04-07 01:21:47,488 - logger_File -INFO - user submitted return order
+2023-04-07 01:21:47,569 - logger_File -INFO - order return successful message diplayed
+2023-04-07 18:48:56,978 - logger_File -INFO - user is on retail website
+2023-04-07 18:48:57,133 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 18:48:57,267 - logger_File -INFO - user entered sign in values
+2023-04-07 18:48:57,318 - logger_File -INFO - user clicke don the log in button
+2023-04-07 18:48:57,573 - logger_File -INFO - user clicked ont the order section
+2023-04-07 18:50:01,436 - logger_File -INFO - user is on retail website
+2023-04-07 18:50:01,519 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 18:50:01,663 - logger_File -INFO - user entered sign in values
+2023-04-07 18:50:01,719 - logger_File -INFO - user clicke don the log in button
+2023-04-07 18:50:02,001 - logger_File -INFO - user clicked ont the order section
+2023-04-07 18:53:54,488 - logger_File -INFO - user is on retail website
+2023-04-07 18:53:54,624 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 18:53:54,770 - logger_File -INFO - user entered sign in values
+2023-04-07 18:53:54,824 - logger_File -INFO - user clicke don the log in button
+2023-04-07 18:53:55,099 - logger_File -INFO - user clicked ont the order section
+2023-04-07 18:56:39,312 - logger_File -INFO - user is on retail website
+2023-04-07 18:56:39,463 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 18:56:39,608 - logger_File -INFO - user entered sign in values
+2023-04-07 18:56:39,661 - logger_File -INFO - user clicke don the log in button
+2023-04-07 18:56:39,928 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:02:46,945 - logger_File -INFO - user is on retail website
+2023-04-07 19:02:47,099 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:02:47,244 - logger_File -INFO - user entered sign in values
+2023-04-07 19:02:47,296 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:02:47,577 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:04:54,134 - logger_File -INFO - user is on retail website
+2023-04-07 19:04:54,220 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:04:54,379 - logger_File -INFO - user entered sign in values
+2023-04-07 19:04:54,432 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:04:54,702 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:04:54,864 - logger_File -INFO - user clicked on the first order
+2023-04-07 19:04:57,160 - logger_File -INFO - user clicked on the return button
+2023-04-07 19:04:57,304 - logger_File -INFO - user selected return reason
+2023-04-07 19:04:57,429 - logger_File -INFO - user selected drop off option
+2023-04-07 19:04:57,494 - logger_File -INFO - user submitted return order
+2023-04-07 19:04:57,570 - logger_File -INFO - order return successful message diplayed
+2023-04-07 19:11:11,249 - logger_File -INFO - user is on retail website
+2023-04-07 19:11:11,350 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:11:11,496 - logger_File -INFO - user entered sign in values
+2023-04-07 19:11:11,549 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:11:11,812 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:12:42,510 - logger_File -INFO - user is on retail website
+2023-04-07 19:12:42,669 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:12:42,819 - logger_File -INFO - user entered sign in values
+2023-04-07 19:12:42,871 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:12:43,145 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:14:06,883 - logger_File -INFO - user is on retail website
+2023-04-07 19:14:07,040 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:14:07,187 - logger_File -INFO - user entered sign in values
+2023-04-07 19:14:07,238 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:14:07,521 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:14:07,851 - logger_File -INFO - user clicked on the first order
+2023-04-07 19:14:07,916 - logger_File -INFO - user clicked on the return button
+2023-04-07 19:14:08,031 - logger_File -INFO - user selected return reason
+2023-04-07 19:14:08,139 - logger_File -INFO - user selected drop off option
+2023-04-07 19:14:08,198 - logger_File -INFO - user submitted return order
+2023-04-07 19:14:08,281 - logger_File -INFO - order return successful message diplayed
+2023-04-07 19:41:37,065 - logger_File -INFO - user is on retail website
+2023-04-07 19:41:37,230 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:41:37,378 - logger_File -INFO - user entered sign in values
+2023-04-07 19:41:37,429 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:41:37,711 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:41:38,008 - logger_File -INFO - user clicked on the first order
+2023-04-07 19:41:38,069 - logger_File -INFO - userclicked on the review button
+2023-04-07 19:41:38,290 - logger_File -INFO - user wrote review
+2023-04-07 19:43:23,931 - logger_File -INFO - user is on retail website
+2023-04-07 19:43:24,092 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:43:24,238 - logger_File -INFO - user entered sign in values
+2023-04-07 19:43:24,287 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:43:24,555 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:43:24,851 - logger_File -INFO - user clicked on the first order
+2023-04-07 19:43:24,914 - logger_File -INFO - userclicked on the review button
+2023-04-07 19:43:25,139 - logger_File -INFO - user wrote review
+2023-04-07 19:46:30,358 - logger_File -INFO - user is on retail website
+2023-04-07 19:46:30,442 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:46:30,585 - logger_File -INFO - user entered sign in values
+2023-04-07 19:46:30,633 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:46:30,910 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:46:31,208 - logger_File -INFO - user clicked on the first order
+2023-04-07 19:46:31,272 - logger_File -INFO - userclicked on the review button
+2023-04-07 19:46:31,486 - logger_File -INFO - user wrote review
+2023-04-07 19:48:04,467 - logger_File -INFO - user is on retail website
+2023-04-07 19:48:04,622 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 19:48:04,766 - logger_File -INFO - user entered sign in values
+2023-04-07 19:48:04,815 - logger_File -INFO - user clicke don the log in button
+2023-04-07 19:48:05,093 - logger_File -INFO - user clicked ont the order section
+2023-04-07 19:48:05,374 - logger_File -INFO - user clicked on the first order
+2023-04-07 19:48:05,431 - logger_File -INFO - userclicked on the review button
+2023-04-07 19:48:05,646 - logger_File -INFO - user wrote review
+2023-04-07 19:48:06,307 - logger_File -INFO - Your review added successfully message displayed
+2023-04-07 20:50:23,071 - logger_File -INFO - user is on retail website
+2023-04-07 20:50:23,234 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:50:23,382 - logger_File -INFO - user entered sign in values
+2023-04-07 20:50:23,432 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:50:23,677 - logger_File -INFO - user selected product category
+2023-04-07 20:50:23,746 - logger_File -INFO - user entered product in search bar
+2023-04-07 20:50:23,796 - logger_File -INFO - user clicked on the search button
+2023-04-07 20:50:23,912 - logger_File -INFO - user clicked on the product
+2023-04-07 20:50:24,041 - logger_File -INFO - user selected product quantity
+2023-04-07 20:50:24,090 - logger_File -INFO - user clicked on the add to cart button
+2023-04-07 20:50:24,241 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-07 20:50:24,300 - logger_File -INFO - user clicked on the cart option
+2023-04-07 20:50:24,366 - logger_File -INFO - user clicked on the check out button
+2023-04-07 20:50:24,423 - logger_File -INFO - user placed the order
+2023-04-07 20:50:24,562 - logger_File -INFO - order placed thanks Message displayed
+2023-04-07 20:50:32,558 - logger_File -INFO - user is on retail website
+2023-04-07 20:50:32,718 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:50:32,863 - logger_File -INFO - user entered sign in values
+2023-04-07 20:50:32,914 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:50:33,198 - logger_File -INFO - user clicked ont the order section
+2023-04-07 20:50:33,539 - logger_File -INFO - user clicked on the first order
+2023-04-07 20:50:33,603 - logger_File -INFO - user clicked on the cancel order button
+2023-04-07 20:50:33,718 - logger_File -INFO - user selected cancel reason
+2023-04-07 20:50:33,773 - logger_File -INFO - user submitted order cancellation
+2023-04-07 20:50:33,854 - logger_File -INFO - order cancel successful message diplayed
+2023-04-07 20:50:41,932 - logger_File -INFO - user is on retail website
+2023-04-07 20:50:42,018 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:50:42,159 - logger_File -INFO - user entered sign in values
+2023-04-07 20:50:42,209 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:50:42,473 - logger_File -INFO - user clicked ont the order section
+2023-04-07 20:50:42,837 - logger_File -INFO - user clicked on the first order
+2023-04-07 20:50:42,914 - logger_File -INFO - user clicked on the return button
+2023-04-07 20:50:43,041 - logger_File -INFO - user selected return reason
+2023-04-07 20:50:43,150 - logger_File -INFO - user selected drop off option
+2023-04-07 20:50:43,204 - logger_File -INFO - user submitted return order
+2023-04-07 20:50:43,288 - logger_File -INFO - order return successful message diplayed
+2023-04-07 20:50:50,997 - logger_File -INFO - user is on retail website
+2023-04-07 20:50:51,161 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:50:51,298 - logger_File -INFO - user entered sign in values
+2023-04-07 20:50:51,344 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:50:51,735 - logger_File -INFO - user clicked ont the order section
+2023-04-07 20:50:52,105 - logger_File -INFO - user clicked on the first order
+2023-04-07 20:50:52,170 - logger_File -INFO - userclicked on the review button
+2023-04-07 20:50:52,378 - logger_File -INFO - user wrote review
+2023-04-07 20:50:53,049 - logger_File -INFO - Your review added successfully message displayed
+2023-04-07 20:55:16,686 - logger_File -INFO - user is on retail website
+2023-04-07 20:55:16,835 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:55:16,986 - logger_File -INFO - user entered sign in values
+2023-04-07 20:55:17,036 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:55:17,293 - logger_File -INFO - user selected product category
+2023-04-07 20:55:17,360 - logger_File -INFO - user entered product in search bar
+2023-04-07 20:55:17,412 - logger_File -INFO - user clicked on the search button
+2023-04-07 20:55:17,522 - logger_File -INFO - user clicked on the product
+2023-04-07 20:55:17,637 - logger_File -INFO - user selected product quantity
+2023-04-07 20:55:17,684 - logger_File -INFO - user clicked on the add to cart button
+2023-04-07 20:55:17,765 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-07 20:55:17,824 - logger_File -INFO - user clicked on the cart option
+2023-04-07 20:55:17,891 - logger_File -INFO - user clicked on the check out button
+2023-04-07 20:55:17,951 - logger_File -INFO - user placed the order
+2023-04-07 20:55:18,100 - logger_File -INFO - order placed thanks Message displayed
+2023-04-07 20:55:26,110 - logger_File -INFO - user is on retail website
+2023-04-07 20:55:26,189 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:55:26,331 - logger_File -INFO - user entered sign in values
+2023-04-07 20:55:26,381 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:55:26,642 - logger_File -INFO - user clicked ont the order section
+2023-04-07 20:55:26,981 - logger_File -INFO - user clicked on the first order
+2023-04-07 20:55:27,052 - logger_File -INFO - user clicked on the cancel order button
+2023-04-07 20:55:27,175 - logger_File -INFO - user selected cancel reason
+2023-04-07 20:55:27,232 - logger_File -INFO - user submitted order cancellation
+2023-04-07 20:55:27,313 - logger_File -INFO - order cancel successful message diplayed
+2023-04-07 20:55:35,214 - logger_File -INFO - user is on retail website
+2023-04-07 20:55:35,307 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:55:35,465 - logger_File -INFO - user entered sign in values
+2023-04-07 20:55:35,513 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:55:35,855 - logger_File -INFO - user clicked ont the order section
+2023-04-07 20:55:36,176 - logger_File -INFO - user clicked on the first order
+2023-04-07 20:55:36,242 - logger_File -INFO - user clicked on the return button
+2023-04-07 20:55:36,360 - logger_File -INFO - user selected return reason
+2023-04-07 20:55:36,470 - logger_File -INFO - user selected drop off option
+2023-04-07 20:55:36,540 - logger_File -INFO - user submitted return order
+2023-04-07 20:55:36,623 - logger_File -INFO - order return successful message diplayed
+2023-04-07 20:55:44,232 - logger_File -INFO - user is on retail website
+2023-04-07 20:55:44,391 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 20:55:44,531 - logger_File -INFO - user entered sign in values
+2023-04-07 20:55:44,576 - logger_File -INFO - user clicke don the log in button
+2023-04-07 20:55:44,851 - logger_File -INFO - user clicked ont the order section
+2023-04-07 20:55:45,137 - logger_File -INFO - user clicked on the first order
+2023-04-07 20:55:45,193 - logger_File -INFO - userclicked on the review button
+2023-04-07 20:55:45,406 - logger_File -INFO - user wrote review
+2023-04-07 20:55:46,085 - logger_File -INFO - Your review added successfully message displayed
+2023-04-07 21:04:42,782 - logger_File -INFO - user is on retail website
+2023-04-07 21:04:42,931 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:04:43,118 - logger_File -INFO - user entered sign in values
+2023-04-07 21:04:43,170 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:04:51,045 - logger_File -INFO - user is on retail website
+2023-04-07 21:04:51,128 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:04:51,197 - logger_File -INFO - user clicked on the create new account button
+2023-04-07 21:04:51,467 - logger_File -INFO - user entered sign up information
+2023-04-07 21:04:51,518 - logger_File -INFO - user clicked on the sign up button
+2023-04-07 21:04:51,778 - logger_File -INFO - user logged into the account page
+2023-04-07 21:05:47,302 - logger_File -INFO - user is on retail website
+2023-04-07 21:05:47,380 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:05:47,527 - logger_File -INFO - user entered sign in values
+2023-04-07 21:05:47,578 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:05:47,792 - logger_File -INFO - user is on retail website
+2023-04-07 21:05:47,853 - logger_File -INFO - user clicked on All section
+2023-04-07 21:05:47,931 - logger_File -INFO - actual is equal to expected
+2023-04-07 21:05:55,602 - logger_File -INFO - user is on retail website
+2023-04-07 21:05:55,678 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:05:55,820 - logger_File -INFO - user entered sign in values
+2023-04-07 21:05:55,869 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:05:56,085 - logger_File -INFO - user is on retail website
+2023-04-07 21:05:56,146 - logger_File -INFO - user clicked on All section
+2023-04-07 21:05:56,239 - logger_File -INFO - TV & Video is present 
+2023-04-07 21:05:56,272 - logger_File -INFO - Video Games is present 
+2023-04-07 21:06:03,980 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:04,054 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:06:04,199 - logger_File -INFO - user entered sign in values
+2023-04-07 21:06:04,246 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:06:04,461 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:04,515 - logger_File -INFO - user clicked on All section
+2023-04-07 21:06:04,607 - logger_File -INFO - Accessories is present 
+2023-04-07 21:06:04,640 - logger_File -INFO - Networking is present 
+2023-04-07 21:06:12,259 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:12,346 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:06:12,484 - logger_File -INFO - user entered sign in values
+2023-04-07 21:06:12,532 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:06:12,755 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:12,808 - logger_File -INFO - user clicked on All section
+2023-04-07 21:06:12,913 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-07 21:06:12,941 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-07 21:06:21,498 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:21,659 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:06:21,803 - logger_File -INFO - user entered sign in values
+2023-04-07 21:06:21,849 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:06:22,059 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:22,115 - logger_File -INFO - user clicked on All section
+2023-04-07 21:06:22,219 - logger_File -INFO - Athletic Clothing is present 
+2023-04-07 21:06:22,248 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-07 21:06:30,128 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:30,200 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:06:30,342 - logger_File -INFO - user entered sign in values
+2023-04-07 21:06:30,387 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:06:30,611 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:30,672 - logger_File -INFO - user clicked on All section
+2023-04-07 21:06:30,791 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-07 21:06:30,822 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-07 21:06:38,507 - logger_File -INFO - user is on retail website
+2023-04-07 21:06:38,661 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:06:38,803 - logger_File -INFO - user entered sign in values
+2023-04-07 21:06:38,851 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:06:39,108 - logger_File -INFO - user selected product category
+2023-04-07 21:06:39,187 - logger_File -INFO - user entered product in search bar
+2023-04-07 21:06:39,232 - logger_File -INFO - user clicked on the search button
+2023-04-07 21:08:52,869 - logger_File -INFO - user is on retail website
+2023-04-07 21:08:53,029 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:08:53,179 - logger_File -INFO - user entered sign in values
+2023-04-07 21:08:53,234 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:09:06,017 - logger_File -INFO - user is on retail website
+2023-04-07 21:09:06,150 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:09:06,288 - logger_File -INFO - user entered sign in values
+2023-04-07 21:09:06,340 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:09:50,947 - logger_File -INFO - user is on retail website
+2023-04-07 21:09:51,036 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:09:51,182 - logger_File -INFO - user entered sign in values
+2023-04-07 21:09:51,235 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:09:51,738 - logger_File -INFO - user entered new name and phone value
+2023-04-07 21:10:20,078 - logger_File -INFO - user is on retail website
+2023-04-07 21:10:20,185 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:10:20,324 - logger_File -INFO - user entered sign in values
+2023-04-07 21:10:20,375 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:10:20,874 - logger_File -INFO - user entered new password information
+2023-04-07 21:10:20,926 - logger_File -INFO - user clicked on the change password button
+2023-04-07 21:12:11,702 - logger_File -INFO - user is on retail website
+2023-04-07 21:12:11,864 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:12:12,016 - logger_File -INFO - user entered sign in values
+2023-04-07 21:12:12,067 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:12:12,761 - logger_File -INFO - user clicked on the add payment method link
+2023-04-07 21:12:13,074 - logger_File -INFO - user added new card info
+2023-04-07 21:12:13,131 - logger_File -INFO - user clicked on the add your card button
+2023-04-07 21:13:01,149 - logger_File -INFO - user is on retail website
+2023-04-07 21:13:01,304 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:13:01,443 - logger_File -INFO - user entered sign in values
+2023-04-07 21:13:01,493 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:13:01,883 - logger_File -INFO - user clicked on the card
+2023-04-07 21:13:01,942 - logger_File -INFO - user clicked on the edit payment method link
+2023-04-07 21:13:02,407 - logger_File -INFO - user entered edit payment method info
+2023-04-07 21:13:03,143 - logger_File -INFO - user updated payment method successfully
+2023-04-07 21:13:11,170 - logger_File -INFO - user is on retail website
+2023-04-07 21:13:11,300 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:13:11,443 - logger_File -INFO - user entered sign in values
+2023-04-07 21:13:11,491 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:13:11,828 - logger_File -INFO - user clicked on the card
+2023-04-07 21:13:11,891 - logger_File -INFO - user clicked on the remove payment method link
+2023-04-07 21:14:04,344 - logger_File -INFO - user is on retail website
+2023-04-07 21:14:04,480 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:14:04,622 - logger_File -INFO - user entered sign in values
+2023-04-07 21:14:04,672 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:14:05,020 - logger_File -INFO - user clicked on the add address option
+2023-04-07 21:14:05,469 - logger_File -INFO - user entered address info
+2023-04-07 21:14:05,537 - logger_File -INFO - user clicked on the submit address button
+2023-04-07 21:14:06,159 - logger_File -INFO - address added successfully
+2023-04-07 21:14:14,284 - logger_File -INFO - user is on retail website
+2023-04-07 21:14:14,436 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:14:14,583 - logger_File -INFO - user entered sign in values
+2023-04-07 21:14:14,634 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:14:14,997 - logger_File -INFO - user clicked on the edit address button
+2023-04-07 21:14:15,688 - logger_File -INFO - user entered address info
+2023-04-07 21:14:15,756 - logger_File -INFO - user clicked on the update address button
+2023-04-07 21:14:16,363 - logger_File -INFO - user uodated address info successfully
+2023-04-07 21:14:23,992 - logger_File -INFO - user is on retail website
+2023-04-07 21:14:24,087 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:14:24,220 - logger_File -INFO - user entered sign in values
+2023-04-07 21:14:24,272 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:14:24,602 - logger_File -INFO - user clicked on remove address button
+2023-04-07 21:14:24,603 - logger_File -INFO - address is removed
+2023-04-07 21:16:49,405 - logger_File -INFO - user is on retail website
+2023-04-07 21:16:49,557 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:16:49,702 - logger_File -INFO - user entered sign in values
+2023-04-07 21:16:49,750 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:16:49,973 - logger_File -INFO - user is on retail website
+2023-04-07 21:16:50,033 - logger_File -INFO - user clicked on All section
+2023-04-07 21:16:50,113 - logger_File -INFO - actual is equal to expected
+2023-04-07 21:16:57,705 - logger_File -INFO - user is on retail website
+2023-04-07 21:16:57,833 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:16:57,973 - logger_File -INFO - user entered sign in values
+2023-04-07 21:16:58,021 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:16:58,234 - logger_File -INFO - user is on retail website
+2023-04-07 21:16:58,294 - logger_File -INFO - user clicked on All section
+2023-04-07 21:16:58,386 - logger_File -INFO - TV & Video is present 
+2023-04-07 21:16:58,416 - logger_File -INFO - Video Games is present 
+2023-04-07 21:17:05,907 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:06,054 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:17:06,201 - logger_File -INFO - user entered sign in values
+2023-04-07 21:17:06,249 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:17:06,522 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:06,575 - logger_File -INFO - user clicked on All section
+2023-04-07 21:17:06,668 - logger_File -INFO - Accessories is present 
+2023-04-07 21:17:06,698 - logger_File -INFO - Networking is present 
+2023-04-07 21:17:14,267 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:14,420 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:17:14,565 - logger_File -INFO - user entered sign in values
+2023-04-07 21:17:14,614 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:17:14,826 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:14,880 - logger_File -INFO - user clicked on All section
+2023-04-07 21:17:14,981 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-07 21:17:15,012 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-07 21:17:22,729 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:22,868 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:17:23,006 - logger_File -INFO - user entered sign in values
+2023-04-07 21:17:23,060 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:17:23,277 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:23,330 - logger_File -INFO - user clicked on All section
+2023-04-07 21:17:23,435 - logger_File -INFO - Athletic Clothing is present 
+2023-04-07 21:17:23,463 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-07 21:17:30,976 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:31,131 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:17:31,268 - logger_File -INFO - user entered sign in values
+2023-04-07 21:17:31,314 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:17:31,525 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:31,578 - logger_File -INFO - user clicked on All section
+2023-04-07 21:17:31,688 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-07 21:17:31,715 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-07 21:17:39,421 - logger_File -INFO - user is on retail website
+2023-04-07 21:17:39,593 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:17:39,731 - logger_File -INFO - user entered sign in values
+2023-04-07 21:17:39,780 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:17:40,028 - logger_File -INFO - user selected product category
+2023-04-07 21:17:40,146 - logger_File -INFO - user entered product in search bar
+2023-04-07 21:17:40,192 - logger_File -INFO - user clicked on the search button
+2023-04-07 21:18:39,351 - logger_File -INFO - user is on retail website
+2023-04-07 21:18:39,487 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:18:39,635 - logger_File -INFO - user entered sign in values
+2023-04-07 21:18:39,685 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:18:39,898 - logger_File -INFO - user is on retail website
+2023-04-07 21:18:39,957 - logger_File -INFO - user clicked on All section
+2023-04-07 21:18:40,039 - logger_File -INFO - actual is equal to expected
+2023-04-07 21:18:47,853 - logger_File -INFO - user is on retail website
+2023-04-07 21:18:47,980 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:18:48,126 - logger_File -INFO - user entered sign in values
+2023-04-07 21:18:48,176 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:18:48,450 - logger_File -INFO - user is on retail website
+2023-04-07 21:18:48,508 - logger_File -INFO - user clicked on All section
+2023-04-07 21:18:48,606 - logger_File -INFO - TV & Video is present 
+2023-04-07 21:18:48,637 - logger_File -INFO - Video Games is present 
+2023-04-07 21:18:56,242 - logger_File -INFO - user is on retail website
+2023-04-07 21:18:56,390 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:18:56,535 - logger_File -INFO - user entered sign in values
+2023-04-07 21:18:56,582 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:18:56,856 - logger_File -INFO - user is on retail website
+2023-04-07 21:18:56,914 - logger_File -INFO - user clicked on All section
+2023-04-07 21:18:57,009 - logger_File -INFO - Accessories is present 
+2023-04-07 21:18:57,040 - logger_File -INFO - Networking is present 
+2023-04-07 21:19:04,967 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:05,091 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:19:05,228 - logger_File -INFO - user entered sign in values
+2023-04-07 21:19:05,284 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:19:05,504 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:05,558 - logger_File -INFO - user clicked on All section
+2023-04-07 21:19:05,660 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-07 21:19:05,700 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-07 21:19:13,615 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:13,782 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:19:13,929 - logger_File -INFO - user entered sign in values
+2023-04-07 21:19:13,980 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:19:14,197 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:14,249 - logger_File -INFO - user clicked on All section
+2023-04-07 21:19:14,353 - logger_File -INFO - Athletic Clothing is present 
+2023-04-07 21:19:14,382 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-07 21:19:22,013 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:22,153 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:19:22,296 - logger_File -INFO - user entered sign in values
+2023-04-07 21:19:22,340 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:19:22,562 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:22,613 - logger_File -INFO - user clicked on All section
+2023-04-07 21:19:22,725 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-07 21:19:22,752 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-07 21:19:30,654 - logger_File -INFO - user is on retail website
+2023-04-07 21:19:30,737 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:19:30,890 - logger_File -INFO - user entered sign in values
+2023-04-07 21:19:30,939 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:19:31,222 - logger_File -INFO - user selected product category
+2023-04-07 21:19:31,348 - logger_File -INFO - user entered product in search bar
+2023-04-07 21:19:31,426 - logger_File -INFO - user clicked on the search button
+2023-04-07 21:20:25,115 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:25,193 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:20:25,344 - logger_File -INFO - user entered sign in values
+2023-04-07 21:20:25,396 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:20:25,675 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:25,732 - logger_File -INFO - user clicked on All section
+2023-04-07 21:20:25,819 - logger_File -INFO - actual is equal to expected
+2023-04-07 21:20:33,554 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:33,640 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:20:33,783 - logger_File -INFO - user entered sign in values
+2023-04-07 21:20:33,831 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:20:34,056 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:34,116 - logger_File -INFO - user clicked on All section
+2023-04-07 21:20:34,211 - logger_File -INFO - TV & Video is present 
+2023-04-07 21:20:34,243 - logger_File -INFO - Video Games is present 
+2023-04-07 21:20:42,047 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:42,136 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:20:42,278 - logger_File -INFO - user entered sign in values
+2023-04-07 21:20:42,328 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:20:42,551 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:42,606 - logger_File -INFO - user clicked on All section
+2023-04-07 21:20:42,698 - logger_File -INFO - Accessories is present 
+2023-04-07 21:20:42,728 - logger_File -INFO - Networking is present 
+2023-04-07 21:20:50,426 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:50,513 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:20:50,651 - logger_File -INFO - user entered sign in values
+2023-04-07 21:20:50,701 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:20:50,912 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:50,970 - logger_File -INFO - user clicked on All section
+2023-04-07 21:20:51,076 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-07 21:20:51,111 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-07 21:20:58,776 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:58,912 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:20:59,056 - logger_File -INFO - user entered sign in values
+2023-04-07 21:20:59,110 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:20:59,318 - logger_File -INFO - user is on retail website
+2023-04-07 21:20:59,373 - logger_File -INFO - user clicked on All section
+2023-04-07 21:20:59,476 - logger_File -INFO - Athletic Clothing is present 
+2023-04-07 21:20:59,513 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-07 21:21:07,398 - logger_File -INFO - user is on retail website
+2023-04-07 21:21:07,549 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:21:07,683 - logger_File -INFO - user entered sign in values
+2023-04-07 21:21:07,732 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:21:07,945 - logger_File -INFO - user is on retail website
+2023-04-07 21:21:07,999 - logger_File -INFO - user clicked on All section
+2023-04-07 21:21:08,110 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-07 21:21:08,142 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-07 21:21:15,757 - logger_File -INFO - user is on retail website
+2023-04-07 21:21:15,908 - logger_File -INFO - User clicked on the sign in option
+2023-04-07 21:21:16,042 - logger_File -INFO - user entered sign in values
+2023-04-07 21:21:16,089 - logger_File -INFO - user clicke don the log in button
+2023-04-07 21:21:16,335 - logger_File -INFO - user selected product category
+2023-04-07 21:21:16,402 - logger_File -INFO - user entered product in search bar
+2023-04-07 21:21:16,448 - logger_File -INFO - user clicked on the search button
+2023-04-07 21:21:16,557 - logger_File -INFO - user clicked on the product
+2023-04-07 21:21:16,679 - logger_File -INFO - user selected product quantity
+2023-04-07 21:21:16,722 - logger_File -INFO - user clicked on the add to cart button
+2023-04-07 21:21:16,810 - logger_File -INFO - quantity of item added to the cart verified
+2023-04-07 21:21:16,869 - logger_File -INFO - user clicked on the cart option
+2023-04-07 21:21:16,933 - logger_File -INFO - user clicked on the check out button
+2023-04-07 21:21:16,997 - logger_File -INFO - user clikced on the shipping address add button
+2023-04-07 21:21:17,396 - logger_File -INFO - user entered address info
+2023-04-07 21:21:17,472 - logger_File -INFO - user clicked on the submit address button
+2023-04-07 21:21:17,552 - logger_File -INFO - user clicked on the add payment method button
+2023-04-07 21:21:17,845 - logger_File -INFO - user added new card info
+2023-04-07 21:21:17,898 - logger_File -INFO - user clicked on the add your card button
+2023-04-07 21:21:18,478 - logger_File -INFO - user placed the order
+2023-04-07 21:21:18,614 - logger_File -INFO - order placed thanks Message displayed
