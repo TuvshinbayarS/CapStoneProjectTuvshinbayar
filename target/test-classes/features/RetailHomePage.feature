@@ -1,4 +1,4 @@
-@retailHome
+@retailHome @smoke
 Feature: Retail Home Page
 
   Background: 

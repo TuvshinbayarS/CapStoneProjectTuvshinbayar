@@ -1,4 +1,4 @@
-@paymentMethod
+@paymentMethod @smoke
 Feature: Retail Account Page
 
   Background: 

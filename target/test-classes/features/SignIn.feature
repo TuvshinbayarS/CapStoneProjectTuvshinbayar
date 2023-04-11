@@ -1,4 +1,4 @@
-@signInComplete
+@signInComplete @smoke
 Feature: TEK Retail Application SignIn feature
 
   Background: 

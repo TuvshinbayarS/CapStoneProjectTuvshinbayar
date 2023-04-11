@@ -1,4 +1,4 @@
-@addAddress
+@addAddress @smoke
 Feature: Retail Account Page
 
   Background: 

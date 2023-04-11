@@ -1,4 +1,4 @@
-@orderFeatureCompleteTest
+@orderFeatureCompleteTest @smoke
 Feature: Retail order page
 
   Background: 
