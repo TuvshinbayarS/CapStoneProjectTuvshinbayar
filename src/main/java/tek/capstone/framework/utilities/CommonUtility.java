@@ -49,11 +49,6 @@ public class CommonUtility extends BaseSetup {
 		this.waitTillClickable(element).click();
 	}
 
-	//my addition
-	// public void click(List<WebElement> elements) {
-	//	this.click(elements);
-	//}
-	//end
 	
 	public void sendText(WebElement element, String value) {
 		this.waitTillPresence(element).sendKeys(value);
@@ -63,9 +58,9 @@ public class CommonUtility extends BaseSetup {
         return this.waitTillPresence(element).getText();
     }
 	
-	public byte[] takeScreenShotAsBytes() {
-        return ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BYTES);
-    }
+//	public byte[] takeScreenShotAsBytes() {
+//        return ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BYTES);
+//    }
 	
 	public void click(By by) {
 		this.waitTillClickable(by).click();
