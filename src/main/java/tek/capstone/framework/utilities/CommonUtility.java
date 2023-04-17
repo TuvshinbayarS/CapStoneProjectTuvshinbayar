@@ -58,9 +58,9 @@ public class CommonUtility extends BaseSetup {
         return this.waitTillPresence(element).getText();
     }
 	
-//	public byte[] takeScreenShotAsBytes() {
-//        return ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BYTES);
-//    }
+	public byte[] takeScreenShotAsBytes() {
+        return ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BYTES);
+    }
 	
 	public void click(By by) {
 		this.waitTillClickable(by).click();
