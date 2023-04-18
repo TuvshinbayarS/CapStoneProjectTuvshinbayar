@@ -15,7 +15,7 @@ Feature: TEK Retail Application SignIn feature
   Scenario: Verify user can create an account into Retail Website
     And User click on Create New Account button
     And User fill the signUp information with below data
-      | name      | email                  | password   | confirmPassword |
-      | Trisilver | trisliver@tekschool.us | Tek@098765 | Tek@098765      |
+      | name     | email                 | password   | confirmPassword |
+      | Triliver | triliver@tekschool.us | Tek@098765 | Tek@098765      |
     And User click on SignUp button
     Then User should be logged into account page
