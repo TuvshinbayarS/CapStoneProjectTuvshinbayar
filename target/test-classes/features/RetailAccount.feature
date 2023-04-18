@@ -4,7 +4,7 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'tuvshinbayar.surenkhorloo@tekschool.us' and password 'Tek@56780'
+    And User enter email 'uka15@gmail.com' and password 'Uka@11111'
     And User click on login button
     And User should be logged in into Account
 
@@ -18,6 +18,6 @@ Feature: Retail Account Page
     When User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Tek@56780        | Tek@567899  | Tek@567899      |
+      | Uka@11111        | Tek@567899  | Tek@567899      |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’

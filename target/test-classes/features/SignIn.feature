@@ -7,7 +7,7 @@ Feature: TEK Retail Application SignIn feature
 
   @signin
   Scenario: Verify user can sign in into Retail Application
-    And User enter email 'tuvshinbayar.surenkhorloo@tekschool.us' and password 'Tek@567899'
+    And User enter email 'Uka@11111' and password 'Tek@567899'
     And User click on login button
     Then User should be logged in into Account
 
