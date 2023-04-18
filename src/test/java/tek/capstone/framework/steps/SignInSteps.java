@@ -45,7 +45,8 @@ public class SignInSteps extends CommonUtility{
 	}
 	@Then("User should be logged in into Account")
 	public void userShouldBeLoggedInIntoAccount() {
-		
+	Assert.assertTrue(isElementDisplayed(factory.accountPage().profileImage));
+	logger.info("user on account page");	
 	}
 	
 }
