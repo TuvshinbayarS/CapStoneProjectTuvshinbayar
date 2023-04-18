@@ -4,7 +4,7 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'uka15@gmail.com' and password 'Uka@11111'
+    And User enter email 'ukas15@gmail.com' and password 'Uka@11111'
     And User click on login button
     And User should be logged in into Account
 
