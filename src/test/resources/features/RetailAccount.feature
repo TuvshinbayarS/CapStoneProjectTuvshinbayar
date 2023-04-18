@@ -7,7 +7,7 @@ Feature: Retail Account Page
     And User enter email 'ukas15@gmail.com' and password 'Uka@11111'
     And User click on login button
     And User should be logged in into Account
-
+@test
   Scenario: Verify User can update Profile Information
     When User click on Account option
     And User update Name 'Uranzaya' and Phone '2023337777'
